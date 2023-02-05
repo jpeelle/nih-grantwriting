@@ -1,0 +1,170 @@
+---
+title: 'Writing an NIH Grant in 9 "easy" steps'
+subtitle: 'Session 1: Overview and NIH Basics'
+author: 'Jonathan Peelle'
+institute: 'Northeastern University <br> <a href="http://neuromatch.social/@jpeelle">@jpeelle@neuromatch.social</a>'
+title-slide-attributes:
+    data-background-image: images/stairs.jpg
+    data-background-size: cover
+    data-background-opacity: '0.6'
+format:
+  revealjs: 
+    theme: default
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+---
+
+
+
+##
+
+ - The goal of this grant group is to help you to submit an NIH grant in 9 months or so, and feel comfortable doing so.
+ - The first day is a general overview; most topics will be covered in more detail in the future.
+
+
+## What questions do you have about grants? {background-image="images/isec01.jpg" background-repeat="no-repeat" background-opacity=0.5}
+
+
+
+## Caveats
+
+ - Everyone has opinions on grants
+ - Probably, no one is 100% correct
+ - Take everything with a grain of salt (TEWAGOS)
+
+## Institutes and Centers (IC)
+
+ - NIH is the National Institute**s** (plural) of Health
+ - NIH is made up of 27 institutes and centers
+   - Each has a research agenda and funding priorities
+ - The IC is what funds your work
+ - Knowing IC priorities can help (with caveats)
+
+
+::: footer
+Learn more: [NIH ICs](https://www.nih.gov/institutes-nih/list-institutes-centers)
+:::
+
+## Choosing an IC for your work
+
+ - Look at who has funded similar work in your field
+ - Read IC statements about funding priorities
+ - Keep an eye out for funding announcements from ICs
+  - You can _request_ to be assigned to an institute, but NIH (specifically the Center for Scientific Review) makes the decision.
+ 
+
+## Funding mechanisms
+
+ - Research grants (R series)
+ - Career development awards (K series)
+ - Research and training fellowships (T and F series)
+ - Program project/center grants (P series)
+ - Resource grants
+ - Sometimes, other mechanisms...
+
+::: footer
+Learn more: [Grant mechanisms](https://grants.nih.gov/grants/funding/funding_program.htm)
+:::
+
+
+## Common funding mechanisms
+
+ - R01
+    - Most common grant program, used by all ICs
+    - Usually 3-5 years
+    - Budgets can vary, typically up to $500k/year direct costs
+  
+::: aside
+  NIH grant mechanisms are a letter followed by two numbers. We say "R oh one" for R01 but it is written R-zero-one.
+:::
+
+
+## Common funding mechanisms
+
+ - R03
+    - Small grant program (3 years, $50k/year)
+ - R21
+    - "Exploratory" research (2-3 years, $275k total)
+    
+
+## Program Announcement (PA) / Funding Opportunity Announcement (FOA)
+
+ - Must specify what funding opportunity your application is in response to.
+ - Make sure you are looking at the most recent one.
+ - For many R01s this is a "Parent R01"
+    - <https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html>
+ 
+
+## Deadlines
+
+ - Be aware of the [due dates][1]
+ - Typically three cycles per year
+ - E.g., for R01s: February 5, June 5, October 5
+ - _Note:_ Internal deadlines may be earlier! Make sure to check *early* in the process.
+
+[1]: https://grants.nih.gov/grants/how-to-apply-application-guide/due-dates-and-submission-policies/due-dates.htm
+
+
+## How grants are reviewed
+
+ - Grants are submitted by the institution
+ - The [Center for Scientific Review (CSR)][csr] assigns what they deem an appropriate IC and study section (though sometimes an IC will convene their own panel for a specific FOA)
+ - Study section rates the science but "does not make funding decisions"
+ - Scores are passed to the IC, which decides on funding
+ - (In practice, reviewers are likely to realize their scores contribute to funding decisions!)
+
+[csr]: https://public.csr.nih.gov
+
+## Study section
+
+ - Group of people who (hopefully) have the expertise to judge scientific content of a grant
+ - Loosely centered on a small number of topics, individual expertise varies
+
+## Grant scoring
+
+![](images/csr-scoring.png) 
+
+## How a grant is typically reviewed
+
+ -  3 reviewers assigned to each grant, and give a preliminary score (1-9, where 1 is the best). These three scores are averaged, and grants sorted.
+ - The lowest (worst) ~50% of grants are not discussed (N.D.)
+    - Applicants receive comments and scores from 3 reviewers
+ - The top (best) ~50% of grants are discussed in person
+
+## How a grant is typically reviewed
+
+ - During discussion, the primary reviewer provides an overview of the grant for all reviewers, and highlights "score-driving" strengths and weaknesses. Reviewers 2 and 3 follow, ideally highlighting differences.
+ - Any member of the panel can ask questions. Sometimes discussions are short, sometimes long.
+ - Original 3 reviewers give their final scores.
+ - *Every member of the panel provides a score.*
+ - The chair writes a summary of the discussion.
+
+
+## Questions? {background-image="images/jp01.jpg" background-repeat="no-repeat"}
+
+
+
+## Homework
+
+ - Choose a mechanism
+ - Choose a topic
+ - Choose IC
+ - Choose 2 potential study sections (you can change these)
+ - Think about budget and investigators
+ - Figure out who your grant administrator is
+
+## Homework notes
+
+ - These starting steps might seem straightforward but they can be tricky
+ - For example, the topic may push you towards one institute or potential study section; different approaches may require different budgets, etc.
+ - Remember, you can change your mind!
+
+
+## Next time {background-image="images/huskies01.jpg" background-repeat="no-repeat" background-opacity=0.5}
+
+ - Now that you have a potential topic, how to get started?
+  - Budget
+  - Specific aims
