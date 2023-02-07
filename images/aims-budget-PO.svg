@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="86 175 464 240" width="464" height="240">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" fill="none" stroke-opacity="1" stroke="none" fill-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="87" y="182" width="158.5" height="93" fill="#76d6ff"/>
+        <rect x="87" y="182" width="158.5" height="93" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(92 219.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="25.506" y="15">Specific Aims</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="390.5" y="182" width="158.5" height="93" fill="#76d6ff"/>
+        <rect x="390.5" y="182" width="158.5" height="93" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(395.5 219.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="48.17" y="15">Budget</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <rect x="390.5" y="321" width="158.5" height="93" fill="#76d6ff"/>
+        <rect x="390.5" y="321" width="158.5" height="93" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(395.5 358.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="17.626" y="15">Program Officer</tspan>
+        </text>
+      </g>
+      <g id="Line_6">
+        <path d="M 245.5 189.16138 C 268.41405 181.60955 294.8941 176 323 176 C 344.01204 176 363.5182 179.13523 380.99967 183.87336" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_7">
+        <path d="M 390.5 271.58515 C 367.58595 279.8562 341.1059 286 313 286 C 291.95878 286 272.42762 282.55663 254.9275 277.35517" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_8">
+        <path d="M 185.10198 275 C 200.91928 304.192 228.44802 340.13764 274 361 C 308.58585 376.84 347.01987 380.9887 380.6104 380.28865" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_10">
+        <circle cx="224.25" cy="200.25" r="12.2500195742982" fill="white"/>
+        <circle cx="224.25" cy="200.25" r="12.2500195742982" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(219.45 191.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x=".3520002" y="15">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <circle cx="409.25" cy="200.25" r="12.2500195742982" fill="white"/>
+        <circle cx="409.25" cy="200.25" r="12.2500195742982" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(404.45 191.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x=".3520002" y="15">2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <circle cx="224.25" cy="256.25" r="12.2500195742982" fill="white"/>
+        <circle cx="224.25" cy="256.25" r="12.2500195742982" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(219.45 247.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x=".3520002" y="15">3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <circle cx="409.25" cy="387.75" r="12.2500195742982" fill="white"/>
+        <circle cx="409.25" cy="387.75" r="12.2500195742982" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(404.45 378.526)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x=".3520002" y="15">4</tspan>
+        </text>
+      </g>
+      <g id="Line_15">
+        <path d="M 390.5 397.0794 C 342.05376 410.9388 281.0507 420.40377 236.5 400 C 187.8627 377.7246 171.7718 325.7745 166.96942 284.84893" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_16">
+        <circle cx="166.25" cy="256.25" r="12.2500195742982" fill="white"/>
+        <circle cx="166.25" cy="256.25" r="12.2500195742982" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(161.45 247.026)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x=".3520002" y="15">5</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

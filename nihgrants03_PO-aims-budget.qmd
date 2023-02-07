@@ -1,0 +1,86 @@
+---
+title: 'Writing an NIH Grant in 9 "easy" steps'
+subtitle: 'Step 3: Getting started (PO, aims, budget)'
+author: 'Jonathan Peelle'
+institute: 'Northeastern University <br> <a href="http://neuromatch.social/@jpeelle">@jpeelle@neuromatch.social</a>'
+title-slide-attributes:
+    data-background-image: images/stairs.jpg
+    data-background-size: cover
+    data-background-opacity: '0.6'
+format:
+  revealjs: 
+    theme: default
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+---
+
+
+
+## Homework updates and questions {background-image="images/isec01.jpg" background-repeat="no-repeat" background-opacity=0.5}
+
+
+
+## Getting started
+
+The foundation of your grant is the aims and budget. And  program officer can guide you. These three topics are where we start.
+
+![](images/aims-budget-PO.svg) 
+
+
+
+## Five rules for specific aims
+
+ 1. You will have 3 specific aims. The number of the aims will be three. You will not have two aims, nor four aims.
+
+ 2. Tell the reviewers what the goal of the project is. (E.g. a sentence, in bold, that begins: "**The goal of this project is...**")
+
+ 3. Pretend your reader is not an expert in your field, is tired, overworked, and under a strict deadline. Now get them excited in the first paragraph.
+
+ 4. Don't use jargon. You are allowed one _mayyyyybe_ two acronyms for your entire grant; don't squander them.
+
+ 5. Avoid references in your aims. 
+
+
+
+
+## Budget
+
+ - Mechanism determines maximum budget
+ - There may be different requirements depending on amount (e.g., modular vs. detailed for an R01)
+ - Usually limits are listed on *direct costs* (the money you use for research), not including *indirect costs* (what the university gets to pay for space, electricity, etc.)
+
+ ::: aside
+ Indirect costs are negotiated between every institution and the NIH. The current Northeastern rate is 59.5%. That means if you have $100k in direct costs, NIH pays Northeastern $159,500 ($59,500 of which goes to somoone other than you).
+ :::
+
+
+ ## Budget: getting started
+
+
+
+
+## Questions? {background-image="images/jp01.jpg" background-repeat="no-repeat"}
+
+
+
+## Homework
+
+ - Choose a mechanism
+ - Choose a topic
+ - Choose IC
+ - Choose 2 potential study sections (you can change these)
+ - Think about budget and investigators
+ - Figure out who your grant administrator is
+
+
+## Next time {background-image="images/huskies01.jpg" background-repeat="no-repeat" background-opacity=0.5}
+
+ - Know your audience: more on study section
+ - Review criteria
+ - Formatting considerations
+
+ OR non research stuff
+

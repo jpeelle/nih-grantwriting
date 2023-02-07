@@ -18,7 +18,7 @@
     "href": "nihgrants01_overview.html#caveats",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Caveats",
-    "text": "Caveats\n\nEveryone has opinions on grants\nProbably, no one is 100% correct\nTake everything with a grain of salt (TEWAGOS)"
+    "text": "Caveats\n\nEveryone has opinions on grants\nProbably, no one is 100% correct\n\nIf someone is, it is definitely not me\n\nTake everything with a grain of salt (TEWAGOS)…including anything I say\n\n\n\nA lot of what I say will be either a partial truth, a convenient interpretation, or flat-out wrong. My goal is to get you started and thinking so you can find your own way."
   },
   {
     "objectID": "nihgrants01_overview.html#institutes-and-centers-ic",
@@ -33,6 +33,20 @@
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Choosing an IC for your work",
     "text": "Choosing an IC for your work\n\nLook at who has funded similar work in your field\nRead IC statements about funding priorities\nKeep an eye out for funding announcements from ICs\nYou can request to be assigned to an institute, but NIH (specifically the Center for Scientific Review) makes the decision."
+  },
+  {
+    "objectID": "nihgrants01_overview.html#nih-reporter",
+    "href": "nihgrants01_overview.html#nih-reporter",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "NIH RePORTER",
+    "text": "NIH RePORTER\n\nNIH RePORTER (reporter.nih.gov) is a Searchable database of funded NIH grants\ne.g. you could search for a well-respected scientist doing similar work to you, and see what IC(s) fund them"
+  },
+  {
+    "objectID": "nihgrants01_overview.html#nih-reporter-1",
+    "href": "nihgrants01_overview.html#nih-reporter-1",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "NIH RePORTER",
+    "text": "NIH RePORTER"
   },
   {
     "objectID": "nihgrants01_overview.html#funding-mechanisms",
@@ -60,7 +74,7 @@
     "href": "nihgrants01_overview.html#program-announcement-pa-funding-opportunity-announcement-foa",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Program Announcement (PA) / Funding Opportunity Announcement (FOA)",
-    "text": "Program Announcement (PA) / Funding Opportunity Announcement (FOA)\n\nMust specify what funding opportunity your application is in response to.\nMake sure you are looking at the most recent one.\nFor many R01s this is a “Parent R01”\n\nhttps://grants.nih.gov/grants/guide/pa-files/PA-20-185.html"
+    "text": "Program Announcement (PA) / Funding Opportunity Announcement (FOA)\n\nMust specify what funding opportunity your application is in response to.\nMake sure you are looking at the most recent one.\nFor many R01s this is a “Parent R01”\n\nhttps://grants.nih.gov/grants/guide/pa-files/PA-20-185.html\n\nYou can search NIH for funding announcements\n\nhttps://grants.nih.gov/grants/guide/subscribe.htm\n\n\n\nLearn more: PA vs. FOA"
   },
   {
     "objectID": "nihgrants01_overview.html#deadlines",
@@ -116,7 +130,7 @@
     "href": "nihgrants01_overview.html#homework",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Homework",
-    "text": "Homework\n\nChoose a mechanism\nChoose a topic\nChoose IC\nChoose 2 potential study sections (you can change these)\nThink about budget and investigators\nFigure out who your grant administrator is"
+    "text": "Homework\n\nMake sure your eRA Commons account is accurate\nChoose a mechanism\nChoose a topic\nChoose IC\nChoose 2 potential study sections (you can change these)\nThink about budget and investigators\nFigure out who your grant administrator is"
   },
   {
     "objectID": "nihgrants01_overview.html#homework-notes",
@@ -131,5 +145,61 @@
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Next time",
     "text": "Next time\n\nNow that you have a potential topic, how to get started?\n\nBudget\nSpecific aims"
+  },
+  {
+    "objectID": "nihgrants02_PO-aims-budget.html#homework-updates-and-questions",
+    "href": "nihgrants02_PO-aims-budget.html#homework-updates-and-questions",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Homework updates and questions",
+    "text": "Homework updates and questions"
+  },
+  {
+    "objectID": "nihgrants02_PO-aims-budget.html#getting-started",
+    "href": "nihgrants02_PO-aims-budget.html#getting-started",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Getting started",
+    "text": "Getting started\nThe foundation of your grant is the aims and budget. And program officer can guide you. These three topics are where we start."
+  },
+  {
+    "objectID": "nihgrants02_PO-aims-budget.html#specific-aims",
+    "href": "nihgrants02_PO-aims-budget.html#specific-aims",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Specific aims",
+    "text": "Specific aims\n\nYou will have 3 specific aims. The number of the aims will be three. You will not have two aims, nor four aims.\nTell the reviewers what the goal of the project is. (E.g. a sentence, in bold, that begins: “The goal of this project is…”)\nPretend your reader is not an expert in your field, is tired, overworked, and under a strict deadline. Now get them excited in the first paragraph.\nDon’t use jargon. You are allowed one mayyyyybe two acronyms for your entire grant; don’t squander them.\nAvoid references in your aims."
+  },
+  {
+    "objectID": "nihgrants02_PO-aims-budget.html#budget",
+    "href": "nihgrants02_PO-aims-budget.html#budget",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Budget",
+    "text": "Budget\n\nMechanism determines maximum budget\nThere may be different requirements depending on amount (e.g., modular vs. detailed for an R01)\nUsually limits are listed on direct costs (the money you use for research), not including indirect costs (what the university gets to pay for space, electricity, etc.)\n\n::: aside Indirect costs are negotiated between every institution and the NIH. The current Northeastern rate is 59.5%. That means if you have $100k in direct costs, NIH pays Northeastern $159,500 ($59,500 of which goes to somoone other than you). :::\n## Budget: getting started"
+  },
+  {
+    "objectID": "nihgrants02_PO-aims-budget.html#questions",
+    "href": "nihgrants02_PO-aims-budget.html#questions",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Questions?",
+    "text": "Questions?"
+  },
+  {
+    "objectID": "nihgrants02_PO-aims-budget.html#homework",
+    "href": "nihgrants02_PO-aims-budget.html#homework",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Homework",
+    "text": "Homework\n\nChoose a mechanism\nChoose a topic\nChoose IC\nChoose 2 potential study sections (you can change these)\nThink about budget and investigators\nFigure out who your grant administrator is"
+  },
+  {
+    "objectID": "nihgrants02_PO-aims-budget.html#next-time",
+    "href": "nihgrants02_PO-aims-budget.html#next-time",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Next time",
+    "text": "Next time\n\nKnow your audience: more on study section\nReview criteria\nFormatting considerations\n\nOR non research stuff"
+  },
+  {
+    "objectID": "nihgrants02_PO-aims-budget.html#five-rules-for-specific-aims",
+    "href": "nihgrants02_PO-aims-budget.html#five-rules-for-specific-aims",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Five rules for specific aims",
+    "text": "Five rules for specific aims\n\nYou will have 3 specific aims. The number of the aims will be three. You will not have two aims, nor four aims.\nTell the reviewers what the goal of the project is. (E.g. a sentence, in bold, that begins: “The goal of this project is…”)\nPretend your reader is not an expert in your field, is tired, overworked, and under a strict deadline. Now get them excited in the first paragraph.\nDon’t use jargon. You are allowed one mayyyyybe two acronyms for your entire grant; don’t squander them.\nAvoid references in your aims."
   }
 ]

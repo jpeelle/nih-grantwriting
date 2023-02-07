@@ -1,6 +1,6 @@
 ---
 title: 'Writing an NIH Grant in 9 "easy" steps'
-subtitle: 'Session 1: Overview and NIH Basics'
+subtitle: 'Step 1: Overview and NIH Basics'
 author: 'Jonathan Peelle'
 institute: 'Northeastern University <br> <a href="http://neuromatch.social/@jpeelle">@jpeelle@neuromatch.social</a>'
 title-slide-attributes:
@@ -33,7 +33,13 @@ format:
 
  - Everyone has opinions on grants
  - Probably, no one is 100% correct
- - Take everything with a grain of salt (TEWAGOS)
+    - If someone is, it is definitely not me
+ - Take everything with a grain of salt (TEWAGOS)...including anything I say
+  
+  
+::: aside
+A lot of what I say will be either a partial truth, a convenient interpretation, or flat-out wrong. My goal is to get you started and thinking so you can find your own way.
+:::
 
 ## Institutes and Centers (IC)
 
@@ -54,7 +60,19 @@ Learn more: [NIH ICs](https://www.nih.gov/institutes-nih/list-institutes-centers
  - Read IC statements about funding priorities
  - Keep an eye out for funding announcements from ICs
   - You can _request_ to be assigned to an institute, but NIH (specifically the Center for Scientific Review) makes the decision.
+
+## NIH RePORTER
+
+ - NIH RePORTER ([reporter.nih.gov][reporter]) is a Searchable database of funded NIH grants
+ - e.g. you could search for a well-respected scientist doing similar work to you, and see what IC(s) fund them
+
+ [reporter]: https://reporter.nih.gov
+
+
+## NIH RePORTER
  
+![](images/reporter.png) 
+
 
 ## Funding mechanisms
 
@@ -96,6 +114,13 @@ Learn more: [Grant mechanisms](https://grants.nih.gov/grants/funding/funding_pro
  - Make sure you are looking at the most recent one.
  - For many R01s this is a "Parent R01"
     - <https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html>
+ - You can search NIH for funding announcements
+      - <https://grants.nih.gov/grants/guide/subscribe.htm>
+
+
+::: footer
+Learn more: [PA vs. FOA](https://grants.nih.gov/grants/policy/nihgps/html5/section_2/2.3.5_types_of_funding_opportunity_announcements__foas_.htm)
+:::
  
 
 ## Deadlines
@@ -149,12 +174,17 @@ Learn more: [Grant mechanisms](https://grants.nih.gov/grants/funding/funding_pro
 
 ## Homework
 
+ - Make sure your [eRA Commons][commons] account is accurate
  - Choose a mechanism
  - Choose a topic
  - Choose IC
  - Choose 2 potential study sections (you can change these)
  - Think about budget and investigators
  - Figure out who your grant administrator is
+
+ [commons]: https://public.era.nih.gov/commonsplus/
+
+
 
 ## Homework notes
 

@@ -2,43 +2,53 @@
 
 
 
-## Session 1: Overview and NIH Basics
+## Step 1: Overview and NIH Basics
 
 
 
-## Session 2: Getting started: Budget and Specific Aims
+## Step 2: Packaging
+
+
+
+
+## Step 3: Getting started: Budget and Specific Aims
 
 New: Budget and specific aims
 
 
-## Session 3:
+
+## Step 4:
 
 Review: Specific aims, budget
-New: Other nonsense and non-science things, P.O.
+New: Other nonsense and non-science things
 
 
 
-## Session 4:
+
+## Step 5:
+
+New: Study section deep dive (audience)
 
 
-New: Study section deep dive
+## Step 6:
+
+prelim data
 
 
-## Session 5:
+## Step 7:
 
 
-
-## Session 6:
-
-
-
-## Session 7:
-
-
-## Session 8:
+## Step 8:
 
 
 
-## Session 9:
+## Step 9:
 
 Error checking, formatting, planning resubmission
+
+## Step 10: Responding to feedback
+
+
+## Thanks
+
+Many thanks to the following people who contributed ideas, comments, inspiration, etc. (in no particular order): Mark Baxter

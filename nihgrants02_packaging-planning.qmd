@@ -1,0 +1,70 @@
+---
+title: 'Writing an NIH Grant in 9 "easy" steps'
+subtitle: 'Step 2: Packaging and Planning'
+author: 'Jonathan Peelle'
+institute: 'Northeastern University <br> <a href="http://neuromatch.social/@jpeelle">@jpeelle@neuromatch.social</a>'
+title-slide-attributes:
+    data-background-image: images/stairs.jpg
+    data-background-size: cover
+    data-background-opacity: '0.6'
+format:
+  revealjs: 
+    theme: default
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+---
+
+
+
+
+## Homework updates and questions {background-image="images/isec01.jpg" background-repeat="no-repeat" background-opacity=0.5}
+
+
+
+
+
+## Questions? {background-image="images/jp01.jpg" background-repeat="no-repeat"}
+
+
+##
+
+You have a lot of reaearch ideas. You want to write a grant. What ideas go in which grant?
+
+
+## Guiding principles
+
+ - It is unlikely you will get every grant you submit
+ - You can't have scientific overlap in funded work
+ - It can be weird for reviewers to review multiple grants from the same PI at study section
+
+
+## It is unlikely you will get every grant you submit
+
+ - If the IC payline is 10th percentile, you need to submit 10 grants to get funded (on average)
+    - 1/year = 10 years to get funded
+    - 3/year (1 per cycle) = 3 years to get funded
+    - 6/year (2 per cycle) = 1.5 years to get funded
+ - Conclusion: submit a lot of grants
+ - Implications: you have to be efficient
+
+## Homework
+
+ - ?
+ - Think of at least one general topic, and two distinct grants
+
+## Homework notes
+
+ - These starting steps might seem straightforward but they can be tricky
+ - For example, the topic may push you towards one institute or potential study section; different approaches may require different budgets, etc.
+ - Remember, you can change your mind!
+
+
+## Next time {background-image="images/huskies01.jpg" background-repeat="no-repeat" background-opacity=0.5}
+
+ - Now that you have a potential topic, how to get started?
+    - Budget
+    - Specific aims
+
