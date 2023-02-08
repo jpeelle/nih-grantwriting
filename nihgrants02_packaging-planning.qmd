@@ -25,10 +25,6 @@ format:
 
 
 
-
-## Questions? {background-image="images/jp01.jpg" background-repeat="no-repeat"}
-
-
 ##
 
 You have a lot of reaearch ideas. You want to write a grant. What ideas go in which grant?
@@ -50,16 +46,115 @@ You have a lot of reaearch ideas. You want to write a grant. What ideas go in wh
  - Conclusion: submit a lot of grants
  - Implications: you have to be efficient
 
+
+## 
+
+The most influential grantwriting advice I ever got was from [drugmonkeyblog](https://drugmonkey.scientopia.org/2013/03/20/so-noob-you-put-in-one-grant-it-didnt-get-funded-and-you-feel-mopey/):
+
+
+> My stock advice right now is that you need to have at least one proposal going in to the NIH for each standard receipt date. If you aren’t hitting it at least that hard, before you have a major award, you aren’t trying. If you think you can’t get out one per round…. you don’t really understand your job yet. Your job is to propose studies until someone decides to give your lab some support.
+
+> My other stock advice is take a look at the payline and assume those odds apply to you. Yes, special snoflake, you.
+
+
+## 
+
+
+
+> If the payline is 10%, then you need to expect that you will have to submit at least 10 apps to have a fighting chance. Apply the noob-discount and you are probably better off hitting twice that number. It is no guarantee and sure, the PI just down the hall struck it lucky with her first Asst Prof submission to the NIH. But these are the kinds of numbers you need to start with.
+
+> Once you get rolling, one new grant and one revised grant per round should be doable. They are a month apart and a revision should be way easier. After the first few, you can start taking advantage of cutting and pasting a lot of the grant text together to get a start on the next one.
+
+
+
+## You can't have scientific overlap in funded work
+
+ - There are many different ways to slice up most research
+ - Approach #1: think of two broad themes and pursue them independently
+      - Grant stream 1: age-related changes in "normal" hearing listeners (behavior, pupillometry, **fMRI**)
+      - Grant stream 2: brain changes in listeners with cochlear implants (behavior, pupillometry, **optical brain imaging**)
+ 
+
+## You can't have scientific overlap in funded work
+
+- Approach #2: "slice" up research based on population, method, theoretical question
+   - Grant stream 1: age-related changes in speech with behavior + pupillometry
+   - Grant stream 2: age-related changes in speech with fMRI
+
+## You can't have scientific overlap in funded work
+
+ - Approach #3: Modify a paradigm to be nonidentical but close (the "cottage industry"/"turn the crank" approach)
+   - Many people use this to good effect
+ - For example, you might study visual attention using upside down Ts...
+
+## Regular
+
+![](images/upside-down-Ts_regular.svg) 
+
+## In color (perceptual competition?)
+
+![](images/upside-down-Ts_color.svg)
+
+## At different levels of contrast
+
+![](images/upside-down-Ts_gray.svg)
+
+## More upside down Ts
+
+ - As a biomarker of Alzheimer's
+ - Relationship to ASD traits
+ - Differ in patients relative to controls
+   - literally any patient group
+
+
+
+## It can be weird for reviewers to review multiple grants from the same PI at study section
+
+- No rule against multiple submissions per round
+- No rule against multiple submissions assigned to the same study section...but as a reviewer this is weird
+   - Grant 1: "PI Peelle is an expert on aging"
+   - Grant 2: "PI Peelle is an expert on perceptual learning"
+   - concerns about being spread too thin
+   - reviewers meddling and overthinking
+
+
+## 
+
+- **Solution:** If you are going for multiple submissions ([which you should be][dmb]), package in a way that basically guarantees different study sections (this may take practice)
+   - Some study sections have key words ("language", "hearing") or populations (children) that seem to strongly affect assignment
+
+- You can try aims and/or full grants with the Assisted Referral Tool from NIH
+   - <https://public.csr.nih.gov/ForApplicants/ArtHome>
+
+
+[dmb]: https://drugmonkey.scientopia.org/2013/03/20/so-noob-you-put-in-one-grant-it-didnt-get-funded-and-you-feel-mopey/
+
+
+
+##
+
+![](images/grantplanning.png) 
+
+
+## Some encouragement
+
+ - Not everyone submits these many grants, YMMV
+ - You don't need to follow this strategy 100% of the time
+ - Don't start with two grants your first round. It's a process, that gets easier with practice - work your way up to it.
+ - Don't assume small grants (R03, R21) are less work than large grants (R01). They're comparable work for ~1/10 of the funding.
+ - Don't worry about submitting perfect grants, but don't submit a bad grant. They all need to be reasonable.
+
+
+
+## Questions? {background-image="images/jp01.jpg" background-repeat="no-repeat"}
+
 ## Homework
 
  - ?
- - Think of at least one general topic, and two distinct grants
+ - Think of at least one general topic, and two distinct grant streams
 
-## Homework notes
 
- - These starting steps might seem straightforward but they can be tricky
- - For example, the topic may push you towards one institute or potential study section; different approaches may require different budgets, etc.
- - Remember, you can change your mind!
+
 
 
 ## Next time {background-image="images/huskies01.jpg" background-repeat="no-repeat" background-opacity=0.5}
