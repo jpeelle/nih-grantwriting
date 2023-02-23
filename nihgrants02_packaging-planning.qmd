@@ -39,6 +39,8 @@ You have a lot of reaearch ideas. You want to write a grant. What ideas go in wh
 
 ## It is unlikely you will get every grant you submit
 
+::: {.incremental}
+
  - If the IC payline is 10th percentile, you need to submit 10 grants to get funded (on average)
     - 1/year = 10 years to get funded
     - 3/year (1 per cycle) = 3 years to get funded
@@ -46,6 +48,7 @@ You have a lot of reaearch ideas. You want to write a grant. What ideas go in wh
  - Conclusion: submit a lot of grants
  - Implications: you have to be efficient
 
+:::
 
 ## 
 
@@ -151,13 +154,21 @@ I have a spreadsheet that I use to keep track of planned grant submissions and (
  - Don't worry about submitting perfect grants, but don't submit a bad grant. They all need to be credible. You have a reputation to build!
 
 
+## Advice
+
+If packaging and planning seems overwhelming:
+
+ - Don't worry too much about it for your next submission. Just submit the best grant you can, and then worry about other ones.
+   - Use the budget and aims development process to work out both how much can "fit" into your grant, and what the most exciting parts of your research are
+
+
 
 ## Questions? {background-image="images/jp01.jpg" background-repeat="no-repeat"}
 
 ## Homework
 
- - ?
  - Think of at least one general topic, and two distinct grant streams
+ - Pick one of those to focus on for aims
 
 
 

@@ -33,7 +33,7 @@ The foundation of your grant is the aims and budget. And  program officer can gu
 ## Specific aims
 
 - Just like a good abstract, convey:
-  - What is the state of knowledge
+  - What is the state of knowledge?
   - What is the gap/problem?
   - How does this proposal help?
   - **Why should we care?**
@@ -132,12 +132,16 @@ These problems are exacerbated if you have under-budgeted.
 ## What your PO can help with
 
 - Reading your aims and giving you advice about fit of your research for IC and mechanism
-- Give advice on study section selction
+- Give advice on study section selection
+- Discretion for funding in certain situations (e.g., NOSI, ECR)
+
+## What your PO can help with
+
 - Help interpret study section comments (sometimes)
   - PO is not involved in review but may be in the room
   - If they were not in the room, they can guess at some stuff but in my experience are no more helpful than an experienced colleague
   - If they *were* in the room, they may remember things not captured in the comments
-- Discretion for funding in certain situations (e.g., NOSI, ECR)
+
 
 ## What your PO *cannot* help with
 
@@ -147,8 +151,8 @@ These problems are exacerbated if you have under-budgeted.
 ## When to contact your PO
 
 - Stock advice: Contact them early in the process, once you have aims (they will almost certainly request aims)
-   - Especially important if unsure of mechanism, eligibility etc.
-- Once your questions are answered, contact after you get study section comments back, if you think they can be helpful.
+   - Especially if unsure of mechanism, eligibility, etc.
+- Once your questions are answered, contact after you get study section comments back
   - I have had a PO skim comments with me, which was not helpful
   - I have also had a PO help me get an R56 when my R01 A1 was 20th percentile (even though she never responded to my initial email)
 
