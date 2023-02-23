@@ -30,12 +30,21 @@ The foundation of your grant is the aims and budget. And  program officer can gu
 ![](images/aims-budget-PO.svg) 
 
 
+## Specific aims
+
+- Just like a good abstract, convey:
+  - What is the state of knowledge
+  - What is the gap/problem?
+  - How does this proposal help?
+  - **Why should we care?**
+- Remember your audience!
+
 
 ## Five rules for specific aims
 
  1. You will have 3 specific aims. The number of the aims will be three. You will not have two aims, nor four aims.
 
- 2. Tell the reviewers what the goal of the project is. (E.g. a sentence, in bold, that begins: "**The goal of this project is...**")
+ 2. Tell the reviewers what the goal is. (E.g. a sentence, in bold, that begins: "**The goal of this project is...**")
 
  3. Pretend your reader is not an expert in your field, is tired, overworked, and under a strict deadline. Now get them excited in the first paragraph.
 
@@ -52,14 +61,96 @@ The foundation of your grant is the aims and budget. And  program officer can gu
  - There may be different requirements depending on amount (e.g., modular vs. detailed for an R01)
  - Usually limits are listed on *direct costs* (the money you use for research), not including *indirect costs* (what the university gets to pay for space, electricity, etc.)
 
- ::: aside
- Indirect costs are negotiated between every institution and the NIH. The current Northeastern rate is 59.5%. That means if you have $100k in direct costs, NIH pays Northeastern $159,500 ($59,500 of which goes to somoone other than you).
- :::
+::: aside
+Indirect costs are negotiated between every institution and the NIH. The current Northeastern rate is 59.5%. That means if you have $100k in direct costs, NIH pays Northeastern $159,500 ($59,500 of which goes to somoone other than you).
+:::
 
 
- ## Budget: getting started
+## Budget: getting started
+
+- Personnel tend to be the biggest item; start here
+  - If a TBN, a starting salary or someone with an equivalent position
+  - Fringe/benefits need consideration
+  - Yearly increases? Make sure to follow institutional/NIH policy
+- Send your grant admin a list of personnel and effort and see where you are at
+  - If feeling brave, add a few other categories you know you will  need - particularly any large items (e.g., equipment)
+
+## Personnel: PI
+
+- Protect your (PI) time and salary
+- Effort should broadly seem reasonable for what you propose
+- If you have no other grants, it makes sense to have significant effort on an R01
+  - Conversely, if you have 6 grants, it will not seem believable or sensible for you to have a lot of effort on a new grant (unless a bunch are ending)
+- If you get an award, can adjust effort of key personnel up to 25% without writing a justification
+  - 4 months of effort gives you flexibility from 3-5 months
+
+## Personnel: Key personnel
+
+Key personnel are not only important ("key") to the project, but have other requirements:
+
+  1. Can't adjust effort more than 25% without justification/approval
+  2. Provide a biosketch
+
+  Most co-investigators will be key personnel.
+
+## Personnel: Key personnel
+
+ - It is unusual to see grant with PI as only key personnel
+ - As a junior person, having a senior person as a co-investigator and key personnel can be useful
+    - Reviewers will use their effort, in part, to gauge that person's commitment to the project
+      - Senior people tend to be expensive
+      - 1 month is fine, 0.5 months also common
+  - One reason to get the budget roughly sorted early is that effort discussions with co-investigators should happen transparently and early on
+
+## Personnel: TBNs
+
+If you don't already know a specific person, assume:
+
+ - They will take longer to hire than you expect
+ - They will be less productive than you expect
+
+These problems are exacerbated if you have under-budgeted.
 
 
+## Misc. budget thoughts
+
+ - Many (but not all) institutes have a flat budget cut (e.g., 15%) for all awards. Plan accordingly.
+ - There are no prizes for being frugal, but reviewers get grumpy if your budget seems padded.
+
+
+## Program officers
+
+- Each institute has program officers (POs) who help implement the priorities of the institute
+  - Often former researchers
+  - Have specific topics they cover
+- How do you identify "your" PO?
+   - After submission: assigned (out of your control)
+   - Before submission: guess, [Matchmaker][match], ask
+
+[match]: https://reporter.nih.gov/matchmaker
+
+## What your PO can help with
+
+- Reading your aims and giving you advice about fit of your research for IC and mechanism
+- Give advice on study section selction
+- Help interpret study section comments (sometimes)
+  - PO is not involved in review but may be in the room
+  - If they were not in the room, they can guess at some stuff but in my experience are no more helpful than an experienced colleague
+  - If they *were* in the room, they may remember things not captured in the comments
+- Discretion for funding in certain situations (e.g., NOSI, ECR)
+
+## What your PO *cannot* help with
+
+- Handling specific reviewer comments (they can offer advice but have no special knowledge or power)
+
+
+## When to contact your PO
+
+- Stock advice: Contact them early in the process, once you have aims (they will almost certainly request aims)
+   - Especially important if unsure of mechanism, eligibility etc.
+- Once your questions are answered, contact after you get study section comments back, if you think they can be helpful.
+  - I have had a PO skim comments with me, which was not helpful
+  - I have also had a PO help me get an R56 when my R01 A1 was 20th percentile (even though she never responded to my initial email)
 
 
 ## Questions? {background-image="images/jp01.jpg" background-repeat="no-repeat"}
@@ -68,12 +159,9 @@ The foundation of your grant is the aims and budget. And  program officer can gu
 
 ## Homework
 
- - Choose a mechanism
- - Choose a topic
- - Choose IC
- - Choose 2 potential study sections (you can change these)
- - Think about budget and investigators
- - Figure out who your grant administrator is
+ - Draft a budget justification
+ - Draft specific aims
+ - Identify your likely program officer
 
 
 ## Next time {background-image="images/huskies01.jpg" background-repeat="no-repeat" background-opacity=0.5}

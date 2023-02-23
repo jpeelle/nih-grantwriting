@@ -131,18 +131,24 @@ The most influential grantwriting advice I ever got was from [drugmonkeyblog](ht
 
 
 
+
+
+
 ##
+
+I have a spreadsheet that I use to keep track of planned grant submissions and (intended) study sections
 
 ![](images/grantplanning.png) 
 
+(I didn't actually submit all of those grants but that was my plan!)
 
 ## Some encouragement
 
- - Not everyone submits these many grants, YMMV
+ - Not everyone submits this many grants, YMMV
  - You don't need to follow this strategy 100% of the time
  - Don't start with two grants your first round. It's a process, that gets easier with practice - work your way up to it.
- - Don't assume small grants (R03, R21) are less work than large grants (R01). They're comparable work for ~1/10 of the funding.
- - Don't worry about submitting perfect grants, but don't submit a bad grant. They all need to be reasonable.
+ - Don't assume small grants (R03, R21) are less work, or easier to get, than large grants (R01). They're comparable work for ~1/10 of the funding.
+ - Don't worry about submitting perfect grants, but don't submit a bad grant. They all need to be credible. You have a reputation to build!
 
 
 
