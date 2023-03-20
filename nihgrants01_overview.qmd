@@ -108,7 +108,7 @@ Learn more: [Grant mechanisms](https://grants.nih.gov/grants/funding/funding_pro
     - "Exploratory" research (2-3 years, $275k total)
     
 
-## Program Announcement (PA) / Funding Opportunity Announcement (FOA)
+## Program Announcement (PA) / Notice of funding opportunity (NOFO)
 
  - Must specify what funding opportunity your application is in response to.
  - Make sure you are looking at the most recent one.
@@ -116,6 +116,8 @@ Learn more: [Grant mechanisms](https://grants.nih.gov/grants/funding/funding_pro
     - <https://grants.nih.gov/grants/guide/pa-files/PA-20-185.html>
  - You can search NIH for funding announcements
       - <https://grants.nih.gov/grants/guide/subscribe.htm>
+
+  - [NOFOs used to be called Funding Opportunity Announcements (FOAs).](https://nexus.od.nih.gov/all/2023/03/02/foa-or-nofo-its-all-about-funding/)
 
 
 ::: footer
