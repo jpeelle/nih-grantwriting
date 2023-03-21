@@ -129,7 +129,7 @@ Indirect costs are negotiated between every institution and the NIH. The current
 - If you have no other grants, it makes sense to have significant effort on an R01
   - Conversely, if you have 6 grants, it will not seem believable or sensible for you to have a lot of effort on a new grant (unless a bunch are ending)
 - If you get an award, can adjust effort of key personnel up to 25% without writing a justification
-  - 4 months of effort gives you flexibility from 3-5 months
+  - 4 months of budgeted effort gives you flexibility from 3-5 months
 
 ## Personnel: Key personnel
 
@@ -164,6 +164,16 @@ If you don't already know a specific person, assume:
 These problems are exacerbated if you have under-budgeted.
 
 
+## Budget minutiae: Don't forget!
+
+ - Publication costs (year 3 onward)
+ - Parking for participants
+ - Costs related to data sharing or curating (e.g., personnel costs)
+ - Travel (e.g., conferences)
+ - Consultants? (Can be useful to shore up real or perceived weaknesses in team, e.g. statistics)
+ - Computers, replacement(s) in Year 4
+
+
 ## Misc. budget thoughts
 
  - Many (but not all) institutes have a flat budget cut (e.g., 15%) for all awards. Plan accordingly.
@@ -186,6 +196,7 @@ These problems are exacerbated if you have under-budgeted.
 - Reading your aims and giving you advice about fit of your research for IC and mechanism
 - Give advice on study section selection
 - Discretion for funding in certain situations (e.g., NOSI, ECR)
+
 
 ## What your PO can help with
 
