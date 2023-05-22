@@ -1,0 +1,189 @@
+---
+title: 'Writing an NIH Grant in 9 "easy" steps'
+subtitle: 'Step 4: Other stuff (besides aims & strategy)'
+author: 'Jonathan Peelle'
+institute: 'Northeastern University <br> <a href="http://neuromatch.social/@jpeelle">@jpeelle@neuromatch.social</a>'
+title-slide-attributes:
+    data-background-image: images/stairs.jpg
+    data-background-size: cover
+    data-background-opacity: '0.6'
+format:
+  revealjs: 
+    theme: default
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+---
+
+
+
+## Homework updates and questions {background-image="images/isec01.jpg" background-repeat="no-repeat" background-opacity=0.5}
+
+
+
+## Other stuff
+
+ - We tend to focus on the meatiest science (aims and research strategy). (Reviewers do the same.) But there are other parts to the application (i.e., "other stuff").
+ - The first time you do this it's frequently quite annoying. Afterwards, you can often just copy and paste (with some care) and it's much easier.
+
+## Other stuff
+
+ - Biosketches
+ - Facilities
+ - Letters of support (optional)
+ - Project narrative
+ - Abstract
+ - Human subjects
+ - Data management and Sharing
+ - Targeted enrollment
+ 
+
+## Biosketches
+
+ - Use the [most recent form](https://grants.nih.gov/grants/forms/biosketch.htm)
+ - The biosketch is the best way for reviewers to get to know you, and why you are the right person to lead this project.
+  - Introduce yourself ("My training is in...")
+  - Customize for every grant
+    - I tend to have two paragraphs: the first stays almost identical (but I proofread!), the second changes per grant
+    - Highlight collaborations (especailly if no publications)
+    - Don't let it be a "missed opportunity"
+
+## First paragraph
+
+::: {style="font-size:.8em"}
+Understanding hearing health in patients who have suffered a stroke requires a broad interdisciplinary approach. My background in cognitive psychology, neuroscience, and hearing research make me well-qualified to lead such an effort. For the last 20+ years my research has focused on understanding age-related changes in speech understanding, and how these reflect complex interactions of auditory and cognitive factors. My lab has used extensive behavioral testing to look at relationships between individual differences in how auditory and cognitive ability affect understanding speech in challenging listening situations, such as in background noise, age-related hearing loss, or with a cochlear implant. We have routinely supplemented these behavioral tools with physiological measures including pupillometry and functional neuroimaging. In recent years we have also been actively expanding our research to link objective and subjective measures of listening success in a range of participant populations.
+:::
+
+## Second paragraph
+
+::: {style="font-size:.8em"}
+I am extremely excited by the work proposed here, which is a natural extension of my longstanding research program. Dr. Meier and I have been meeting regularly since my arrival at Northeastern and this grant application organically came from our shared interests and complementary expertise. Dr. Lin has provided extraordinarily valuable input and has shown unwavering support for our recruitment and data collection plan, particularly critical due to our focus on patients in the acute phase of stroke recovery.
+:::
+
+ * Highlight specific aspects of the current proposal
+ * Include tangible markers of collaboration where appropriate (meetings, papers, grants...)
+   - If you don't have these yet, "regular meetings" are good to mention
+
+## Biosketches from key personnel
+
+ - All key personnel need to submit a biosketch
+ - Start asking for these early
+ - Be prepared to contribute to help the grant and a consistent message:
+   - Edit (with permission), especially the personal statement
+   - You may also find yourself reformatting biosketches from collaborators (e.g., to use the most recent NIH form)
+
+
+## Facilities and other resources
+
+ - Opportunity to highlight how the environment supports the proposed research. Often subheadings like:
+   - Institutional environment
+   - Lab space for each investigator
+   - Special facilities relevant to grant (e.g., brain imaging)
+ - Sometimes this feels like busywork. It helps me to pretend I'm writing to someone who literally knows nothing about my institution, and I imagine another institution where they may not have the right environment.
+ - By convention people tend to list all available resources (even if not directly relevant). Once in a blue moon a reviewer grumbles about this.
+
+## Facilities and other resources
+
+::: {style="font-size:.8em"}
+
+ **Institutional environment**
+
+ The research environment at Washington University in St. Louis is well established and highly regarded. In 2019, the National Institutes of Health awarded over $523 million for research at Washington University. The Clinical and Translational Research Core within the Department of Otolaryngology provides regulatory and biostatistical support. There is a strong neuroimaging community at Washington University that spans the departments of Radiology, Psychological and Brain Sciences, and Neurology, providing additional technical and theoretical support for the work proposed here. There are twenty adult and pediatric otolaryngologists, including several cochlear implant surgeons, who evaluate patients with ear disorders and refer potential cochlear implant patients for audiological evaluation. 
+:::
+
+
+## Letters of support (LOS)
+
+ - None are required, but good to include whenever there might be a question about support or access
+   - Facilities
+   - Patient groups (e.g., from a clinician who is going to help recruit)
+   - Consultants
+ - For each person you request a LOS from, request early, and snend them a draft
+   - Don't send people the same draft, because then if they don't edit it, all your letters of support will be nearly identical and reviewers will notice
+
+
+## Project Narrative
+
+  - 3 sentences, no other length constraints
+   - In my experience, reviewers seldom do more than skim these, but they do show up publicly (e.g., NIH RePORTER) so make sure it's decent
+  - Avoid jargon, keep everything very understandable
+  - Suggestion:
+    - Sentence 1: Background
+    - Sentence 2: Explain the problem, challenge, or gap
+    - Sentence 3: Describe what you will do in the project
+  
+
+## Project Narrative
+
+A cochlear implant can provide auditory sensation to someone who would otherwise be deaf due to a dysfunctional inner ear. However, the signal provided by a cochlear implant does not have the clarity of what would be provided by healthy biological hearing, and the degree to which listeners with cochlear implants can understand spoken language varies considerably from patient to patient. Here we use functional brain imaging to measure the involvement of different brain networks during speech understanding in patients with cochlear implants to better understand individual differences in speech perception.
+
+## Abstract
+
+ - 30 lines
+ - In my experience, reviewers seldom do more than skim these, but they do show up publicly (e.g., NIH RePORTER) so make sure it's decent
+ - I often do this after I'm done with the research strategy, and cut and paste into the abstract
+
+
+## Abstract
+
+::: {style="font-size:.8em"}
+Listeners with hearing impairment can often understand spoken language, but with increased effort, taking cognitive resources away from other processes such as attention and memory. An important challenge is therefore to understand how the brain copes with a degraded speech signal and the cognitive processes that are most critical to successful comprehension. Adult listeners with cochlear implants are a unique group in which to investigate effortful listening: They have typically adapted to auditory deprivation for a period of years of profound hearing loss, followed by some degree of hearing restoration following implantation. Following increased auditory input due to cochlear implantation, the degree to which individual listeners are able to successfully recognize speech, especially in the presence of background noise, is extremely variable. Previous attempts to explain this variability in the context of underlying patterns of brain activity have been unsuccessful, in large part because the technical challenges associated with neuroimaging in the presence of an implanted medical device have prevented adequate localization of neural responses to speech. The goal of our research is to understand the cognitive systems that support speech recognition in listeners with cochlear implants and to use knowledge about these systems to improve behavioral outcomes. We do so using converging evidence from behavioral measures and functional brain imaging. We make use of high-density diffuse optical tomography (HD-DOT), a form of optical brain imaging that produces anatomically-localized indices of regional cortical activity. We will map the brain networks supporting speech comprehension in listeners with cochlear implants, which we expect to differ from those engaged by listeners with good hearing. We will then evaluate the degree to which neural markers of effortful listening can predict individual differences in speech recognition success in the presence of background noise. Together the findings will help ground our understanding of cochlear implant-aided speech recognition in a neuroanatomically-constrained framework and develop more accurate outcome measures.
+:::
+
+
+## Human subjects
+
+ - Risks and approaches to mitigating risks simlar to what you would include on an IRB application
+ - Description of human subjects should line up with what you say in your research strategy (and other sections of the grant)
+ - Don't use human subjects as a way around page limits in the grant (!), both because this is not allowed, and because it can backfire
+
+
+## Data management and Sharing
+
+- Relatively new requirement (which means reviewers are still figuring it out)
+- DMS tool:
+- Ask other people for examples (and look at NIH examples)
+- Consider the [NIMH Data Archive (NDA)](https://nda.nih.gov)
+
+
+::: footer
+Learn more: [NIH DMS page](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan)
+:::
+
+
+
+## Targeted enrollment
+
+ - If demographics are critical for an aspect of your project, of course, address that
+ - A common approach is to use demographic information from a recent census to plan relevant categories
+ - I have a little excel sheet that does this calculation
+
+
+
+## Cautions
+
+ - Cutting and pasting is great, but check your work.
+    - E.g., easy to forget if you change age group or outcome measures, and will confuse or annoy reviewers
+
+
+## Executive summary
+
+ - "Other stuff" is important but does not weigh as heavily as research portions
+ - Get one or more examples from colleagues and be inspired (with their permission)
+ - The first time you go through this it is arduous, but after that it gets substantially easier
+
+## Questions? {background-image="images/jp01.jpg" background-repeat="no-repeat"}
+
+
+
+## Homework
+
+ - Get example grant materials from someone (which could be me)
+ - Draft at least facilities and equipment sections (or why not just do everything)
+
+
+## Next time {background-image="images/huskies01.jpg" background-repeat="no-repeat" background-opacity=0.5}
+
+Research strategy!
