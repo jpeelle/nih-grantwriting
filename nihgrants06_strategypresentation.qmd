@@ -1,0 +1,188 @@
+---
+title: 'Writing an NIH Grant in 9 "easy" steps'
+subtitle: 'Step 5: Research Strategy'
+author: 'Jonathan Peelle'
+institute: 'Northeastern University <br> <a href="http://neuromatch.social/@jpeelle">@jpeelle@neuromatch.social</a>'
+title-slide-attributes:
+    data-background-image: images/stairs.jpg
+    data-background-size: cover
+    data-background-opacity: '0.6'
+format:
+  revealjs: 
+    theme: default
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: styles.css
+---
+
+
+
+## Homework updates and questions {background-image="images/isec01.jpg" background-repeat="no-repeat" background-opacity=0.5}
+
+
+
+## Research Strategy
+
+ - After your aims, the most important part of your grant
+ - Improves through iteration, feedback, and experience
+ - Important to focus both on *content* (scientific ideas) and *presentation* (how you communicate these ideas, particularly aesthetic and organizational choices)
+
+
+# Part 2: Presentation
+
+## Guiding principles
+
+Remember your goal (communication) and your audience (tired grant reviewers who aren't as expert in your niche as you think they are)
+
+
+## Organization
+
+ - Be thoughtful about your organization and headings
+ - Clearly differentiate levels of information
+ - Use styles (i.e. the "styles pane" in Word) for consistency and to facilitate changing styles.
+
+
+## Organization
+
+What I do: Start by outlining the logical progression I want to present to the reviewers before they see the specific experiments. These points (perhaps with some rewording) become subheadings in the background.
+
+
+
+## Organization
+
+In a recent grant, we proposed a new way of looking at accented speech in noise:
+
+ - Accent and how we talk about it
+ - Pupil diameter as a physiological measure of cognitive effort
+ - Cognitive effort during listening: Empirical observations
+ - Cognitive effort during listening: Theoretical considerations
+ - Framing the processes that help us understand difficult speech
+ - State of the field: brain regions underlying challenging listening in individual listeners
+ 
+
+
+## Abbreviations
+
+Many authors try to save space (SS) by using acronyms and abbreviations (UAA) in order to have room to better explain things (BET), which in principle is a good idea (IPGI) and may result in a better score (RBS).
+
+## Abbreviations
+
+However, you may find as a reader that even IPGIs like UAA are confusing and in the end do not RBS because they do not BET.
+
+## Abbreviations
+
+Alzheimer's Disease (AD) is distinct from healthy aging (HA) because of the presence of neurofibrilliary plaques and tangles (NPTs). One compelling theory is that NPTs are caused in part by buildup of amyloid beta proteins. Recent theories propose that early stage buildup of amlyloid beta is associated with mild cognitive impairment (MCI), associated particularly with damage to the hippocampus (HC) and entorhinal cortex (EC). Here we use fMRI and PET to study the structure and function of HC and EC as they relate to HA, MCI, and prodromal AD.
+
+## Abbreviations
+
+ - You are allowed 1-2 (yes really) acroynyms/abbreviations in your application. Don't squander them.
+ - It won't kill you to write something out. Yes, it "uses" more characters, but remember that your goal is *communication* and making the reviewer's job easy. If you don't do this, who cares if you "saved space". 🤷‍♂️
+ - Ubiquitious abbreviations probably don't count against you. However, what is "ubiquitious" varies more than you think within a field.
+   - Common methods (fMRI, EEG, fNIRS) are probably OK
+
+
+
+## Emphasis
+
+ - Using font changes to highlight important information can help reviewers (espeically the ones who are skimming!) zero in on important information. Caveats:
+   1. If you emphasize too much, it loses meaning. Be choosey about what you emphasize.
+   2. *Don't use too many types of emphasis.* It's distracting, and <u>leaves the reader</u> wondering **what the <u>*difference*</u> is** between different kinds of emphasis. (**I use bold for highlighting main points.**)
+
+
+## References
+
+ - Author, date
+   - Pros: People who know the field see the reference
+   - Cons: People who don't know get no benefit, takes up more room
+- Numbered
+  - Pros: Saves space
+  - Cons: Reviewers often don't look these up
+
+No matter which approach you take, be sensitive to how reviewers use (or don't) the information, and don't over-do the references, because it doesn't help.<sup>45, 46, 52-57, 74</sup>
+
+
+## Figures
+ - Often underrated
+ - My hypothesis: Even readers who "don't care" about nice figures have an easier time understanding your proposal if it has good figures
+
+
+## What makes "good" figures?
+
+ - Understandable with a minimal legend
+ - Legible font (!)
+ - Labeled axes (!)
+ - Look nice when you zoom in
+
+These may all seem basic but are frequently ignored. (Why? Because applicants underrate the importance of figures.)
+
+
+## Re-drawing figures
+
+![](images/McLaughlin2018_2panel.png){fig-align="right"}
+
+## Re-drawing figures
+In text, this is either way too small, or huge (and still looks bad)
+
+![](images/McLaughlin2018_2panel_text.png){fig-align="center"}
+
+## Re-drawing figures
+Still too small
+
+![](images/McLaughlin2018_1panel_text.png){fig-align="center"}
+
+
+## Re-drawing figures
+
+The solution? Re-draw the figure.
+
+ - Make sure font is legible (8+ points)
+ - Axes labels legible and make sense
+ - Color scheme and labels match text of grant
+
+How to do it?
+
+  1. Original figure as one layer in Illustrator (or similar), locked
+  2. Trace new layer on top
+
+(N.B. If you want good figures you need to learn at least the basics of a vector art program, like Illustrator)
+
+
+## Re-drawing figures
+Better
+
+![](images/McLaughlin2018_text.png){fig-align="center"}
+
+## Re-drawing figures
+
+![](images/McLaughlin2018_v01_doubled.png){fig-align="center"}
+
+
+## Advanced figures
+
+ - Have a consistent color scheme throughout your grant
+ - Make sure to have high-resolution (or ideally, vector) graphics so they look good when zoomed in
+
+
+
+# Concluding remarks
+
+## Summary
+
+ - Start early and iterate
+ - Be inspired by other people's grants
+
+## Questions? {background-image="images/jp01.jpg" background-repeat="no-repeat"}
+
+
+
+## Homework
+
+ - Get example grant materials from someone (which could be me)
+ - Draft at least facilities and equipment sections (or why not just do everything)
+
+
+## Next time {background-image="images/huskies01.jpg" background-repeat="no-repeat" background-opacity=0.5}
+
+Research strategy!
