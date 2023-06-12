@@ -36,7 +36,7 @@ format:
 
  - Standard sections
 
- - Everyone allocates space differently and there are many effective ways to structure a grant, but remember your jobs: *make the reviewer's job easy*
+ - Everyone allocates space differently and there are many effective ways to structure a grant, but remember your job: *make the reviewer's job easy*
     - Tell them what they need to know to understand your grant
     - Highlight what you anticipate are score-driving factors (particularly significance and innovation)
 
@@ -88,21 +88,30 @@ In a recent grant, we proposed a new way of looking at accented speech in noise:
 ## Paragraphs
 
  - Don't leave reviewers to draw their own conclusions - tell them what they should take away.
- - When in doubt, go back to basics: One main topic per paragraph, which is introduced with a topic sentence, and ends with a conclusing sentence.
+ - When in doubt, go back to basics:
+   - One main topic per paragraph, which is:
+     - introduced with a topic sentence
+     - ends with a concluding sentence
 
 
 ## Significance
 
- - Not a literature review!
- - But, need to walk reviewers through relevant literature to hihlight the critical gap in the field that your proposal addresses
+ - Not a literature review! But, need to walk reviewers through relevant literature to highlight the critical gap in the field that your proposal addresses
  - Do not assume your reviewers know the critical background
+ - Do not assume your reviewers find the topic obviously important or can see possible translational implications
 
- ## Approach
+## Significance: Clinical applications
+
+ - NIH funds plenty of basic science. Not everything needs to be clinical.
+ - However, reviewers will differ in the degree to which they want to see clear clinical or translational implciations from your work.
+ - Try to be specific as much as possible and assume there is a clinician reading your grant who cares deeply abou this issue.
+
+## Approach
 
   - Often helpful to include an overview to provide the general structure and logic
     - If you have all the background stuff in significance, beginning of the "approach" is a good place for this
-    - If you have a shorter significance and then a "background" section, you can put the overview right before specific aims
-  - Provide descriptive captions for figures
+    - If you have a shorter significance and then a "background" section in Approach, you can put the overview right before specific aims
+  - Don't be afraid of figures - use them as visual aids to educate reviewers (and remind them when they are skimming). Schematic figures and overview figures can be very helpful when done well.
 
 ## What methods do you include?
 
@@ -113,11 +122,11 @@ In a recent grant, we proposed a new way of looking at accented speech in noise:
    - number of trials
    - what the stimuli and task are
 
-## Sample size
+## Sample size 
 
  - In the real world, small sample sizes and poor reliability are enormous problems
  - These are often (though perhaps not always) overlooked at study section
-   - A lot of "rule of thumb" and gut instincts drive reviewer comments
+   - A lot of "rules of thumb" and gut instincts drive reviewer comments
 
 ## Sample size
 
@@ -203,9 +212,8 @@ Different kinds of preliminary data serve different purposes:
  - Data from a pilot study shows how the specific thing you are proposing might turn out
    - Reviewers vary in how closely they want preliminary data to match the specifics of what you propose. 
   
-## Content: Conclusions
+## The grant-writing cycle
 
- - Remember your goal (communication) and your audience (tired grant reviewers who aren't as expert in your niche as you think they are)
  - Be prepared for a roller coaster with 12 pages
    - Early on: oh my so many blank pages 😬
    - Midway on: I can do this 💪
@@ -214,10 +222,8 @@ Different kinds of preliminary data serve different purposes:
    - The very end: back to 12 pages PHEW 🥰
 
 
-# Concluding remarks
-
 ## Summary
-
+ - Remember your goal (communication) and your audience (tired grant reviewers who aren't as expert in your niche as you think they are)
  - Start early and iterate
  - Be inspired by other people's grants
  - Get feedback

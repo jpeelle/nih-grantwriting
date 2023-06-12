@@ -1327,7 +1327,7 @@
     "href": "nihgrants05_strategyorganization.html#organization",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Organization",
-    "text": "Organization\n\nStandard sections\nEveryone allocates space differently and there are many effective ways to structure a grant, but remember your jobs: make the reviewer’s job easy\n\nTell them what they need to know to understand your grant\nHighlight what you anticipate are score-driving factors (particularly significance and innovation)"
+    "text": "Organization\n\nStandard sections\nEveryone allocates space differently and there are many effective ways to structure a grant, but remember your job: make the reviewer’s job easy\n\nTell them what they need to know to understand your grant\nHighlight what you anticipate are score-driving factors (particularly significance and innovation)"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#a-suggested-organization",
@@ -1362,7 +1362,7 @@
     "href": "nihgrants05_strategyorganization.html#sample-size",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Sample size",
-    "text": "Sample size\n\nIn the real world, small sample sizes and poor reliability are enormous problems\nThese are often (though perhaps not always) overlooked at study section\n\nA lot of “rule of thumb” and gut instincts drive reviewer comments"
+    "text": "Sample size\n\nIn the real world, small sample sizes and poor reliability are enormous problems\nThese are often (though perhaps not always) overlooked at study section\n\nA lot of “rules of thumb” and gut instincts drive reviewer comments"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#sample-size-1",
@@ -1446,7 +1446,7 @@
     "href": "nihgrants05_strategyorganization.html#summary",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Summary",
-    "text": "Summary\n\nStart early and iterate\nBe inspired by other people’s grants\nGet feedback"
+    "text": "Summary\n\nRemember your goal (communication) and your audience (tired grant reviewers who aren’t as expert in your niche as you think they are)\nStart early and iterate\nBe inspired by other people’s grants\nGet feedback"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#questions",
@@ -1670,13 +1670,55 @@
     "href": "nihgrants05_strategyorganization.html#paragraphs",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Paragraphs",
-    "text": "Paragraphs\n\nDon’t leave reviewers to draw their own conclusions - tell them what they should take away.\nWhen in doubt, go back to basics: One main topic per paragraph, which is introduced with a topic sentence, and ends with a conclusing sentence."
+    "text": "Paragraphs\n\nDon’t leave reviewers to draw their own conclusions - tell them what they should take away.\nWhen in doubt, go back to basics:\n\nOne main topic per paragraph, which is:\n\nintroduced with a topic sentence\nends with a concluding sentence"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#significance",
     "href": "nihgrants05_strategyorganization.html#significance",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Significance",
-    "text": "Significance\n\nNot a literature review!\nBut, need to walk reviewers through relevant literature to hihlight the critical gap in the field that your proposal addresses\nDo not assume your reviewers know the critical background\n\n## Approach\n\nOften helpful to include an overview to provide the general structure and logic\n\nIf you have all the background stuff in significance, beginning of the “approach” is a good place for this\nIf you have a shorter significance and then a “background” section, you can put the overview right before specific aims\n\nProvide descriptive captions for figures"
+    "text": "Significance\n\nNot a literature review! But, need to walk reviewers through relevant literature to highlight the critical gap in the field that your proposal addresses\nDo not assume your reviewers know the critical background\nDo not assume your reviewers find the topic obviously important or can see possible translational implications"
+  },
+  {
+    "objectID": "nihgrants05_strategyorganization.html#approach",
+    "href": "nihgrants05_strategyorganization.html#approach",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Approach",
+    "text": "Approach\n\nOften helpful to include an overview to provide the general structure and logic\n\nIf you have all the background stuff in significance, beginning of the “approach” is a good place for this\nIf you have a shorter significance and then a “background” section in Approach, you can put the overview right before specific aims\n\nDon’t be afraid of figures - use them as visual aids to educate reviewers (and remind them when they are skimming). Schematic figures and overview figures can be very helpful when done well."
+  },
+  {
+    "objectID": "nihgrants05_strategyorganization.html#significance-clinical-applications",
+    "href": "nihgrants05_strategyorganization.html#significance-clinical-applications",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Significance: Clinical applications",
+    "text": "Significance: Clinical applications\n\nNIH funds plenty of basic science. Not everything needs to be clinical.\nHowever, reviewers will differ in the degree to which they want to see clear clinical or translational implciations from your work.\nTry to be specific as much as possible and assume there is a clinician reading your grant who cares deeply abou this issue."
+  },
+  {
+    "objectID": "nihgrants05_strategyorganization.html#sample-size-justification-and-power-analyses",
+    "href": "nihgrants05_strategyorganization.html#sample-size-justification-and-power-analyses",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Sample size justification and power analyses",
+    "text": "Sample size justification and power analyses\n\nIn the real world, small sample sizes and poor reliability are enormous problems\nThese are often (though perhaps not always) overlooked at study section\n\nA lot of “rule of thumb” and gut instincts drive reviewer comments"
+  },
+  {
+    "objectID": "nihgrants05_strategyorganization.html#sample-size-justification-and-power-analyses-1",
+    "href": "nihgrants05_strategyorganization.html#sample-size-justification-and-power-analyses-1",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Sample size justification and power analyses",
+    "text": "Sample size justification and power analyses\nDO:\n\nMake your best effort\nUse real numbers (means, variance)\nRead the statistical literature\nConsult a statician if necessary (early)\nErr on the side of too many participants\nAccount for attrition"
+  },
+  {
+    "objectID": "nihgrants05_strategyorganization.html#sample-size-justification-and-power-analyses-2",
+    "href": "nihgrants05_strategyorganization.html#sample-size-justification-and-power-analyses-2",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Sample size justification and power analyses",
+    "text": "Sample size justification and power analyses\nDON’T:\n\nBe vague (“We run enough participants to detect an effect of 0.8, p < .05, calculated using GPower”)\nDevote too much space to power and sample size (which comes at the expense of other things you need to explain)"
+  },
+  {
+    "objectID": "nihgrants05_strategyorganization.html#the-grant-writing-cycle",
+    "href": "nihgrants05_strategyorganization.html#the-grant-writing-cycle",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "The grant-writing cycle",
+    "text": "The grant-writing cycle\n\nBe prepared for a roller coaster with 12 pages\n\nEarly on: oh my so many blank pages 😬\nMidway on: I can do this 💪\nNear the end: 12 pages! 🎉\nNearer the end: Oh no 15 pages 😱\nThe very end: back to 12 pages PHEW 🥰"
   }
 ]
