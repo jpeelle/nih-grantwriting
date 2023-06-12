@@ -1,6 +1,6 @@
 ---
 title: 'Writing an NIH Grant in 9 "easy" steps'
-subtitle: 'Step 5: Research Strategy'
+subtitle: 'Step 5: Research Strategy Organization'
 author: 'Jonathan Peelle'
 institute: 'Northeastern University <br> <a href="http://neuromatch.social/@jpeelle">@jpeelle@neuromatch.social</a>'
 title-slide-attributes:
@@ -45,7 +45,7 @@ format:
 - Significance (half page)
 - Innovation (half page)
 - Background
-  - Tell reviewers everything they need to know about your study
+  - Tell reviewers everything they need to know to understand your grant
   - Highlight your past work as appropriate
 - General methodology (if anything common across aims)
   - Subject selection, data acquisition, assessments...
@@ -67,6 +67,42 @@ As a reviewer I prefer the details and preliminary data for each aim near each o
     - Impeccable nested numbering does not prevent reviewers from getting confused
 
 
+## Organization
+
+What I do: Start by outlining the logical progression I want to present to the reviewers before they see the specific experiments. These points (perhaps with some rewording) become subheadings in the background.
+
+
+
+## Organization
+
+In a recent grant, we proposed a new way of looking at accented speech in noise:
+
+ - Accent and how we talk about it
+ - Pupil diameter as a physiological measure of cognitive effort
+ - Cognitive effort during listening: Empirical observations
+ - Cognitive effort during listening: Theoretical considerations
+ - Framing the processes that help us understand difficult speech
+ - State of the field: brain regions underlying challenging listening in individual listeners
+ 
+
+## Paragraphs
+
+ - Don't leave reviewers to draw their own conclusions - tell them what they should take away.
+ - When in doubt, go back to basics: One main topic per paragraph, which is introduced with a topic sentence, and ends with a conclusing sentence.
+
+
+## Significance
+
+ - Not a literature review!
+ - But, need to walk reviewers through relevant literature to hihlight the critical gap in the field that your proposal addresses
+ - Do not assume your reviewers know the critical background
+
+ ## Approach
+
+  - Often helpful to include an overview to provide the general structure and logic
+    - If you have all the background stuff in significance, beginning of the "approach" is a good place for this
+    - If you have a shorter significance and then a "background" section, you can put the overview right before specific aims
+  - Provide descriptive captions for figures
 
 ## What methods do you include?
 
@@ -99,12 +135,15 @@ As a reviewer I prefer the details and preliminary data for each aim near each o
 **DON'T**:
 
  - Be vague ("We run enough participants to detect an effect of 0.8, p < .05, calculated using GPower")
+ - Devote too much space to power and sample size (which comes at the expense of other things you need to explain)
 
 
 ## Sample size
 
 - One approach I have taken that has worked in grants, and also to some degree in my lab, is Bayes Factor Design Analysis ([Schönbrodt and Wagenmakers, 2018](https://link.springer.com/article/10.3758/s13423-017-1230-y))
   - Sequential sampling with optional stopping structured around the minimal sample size required for informative results
+  - PROS: Gives you some wiggle room, avoids some pitfalls of other approaches
+  - CONS: Most reviewers will not be familiar with it, may make budgeting tricky (although no one has ever brought this up)
 
 
 ## Sample size behavioral example
@@ -157,22 +196,22 @@ Preliminary data can serve different purposes:
 
 ## Preliminary data
 
-Different kinds of preliminary data might serve different purposes:
+Different kinds of preliminary data serve different purposes:
 
  - A published figure from a manuscript in your lab can show your expertise and/or help reviewers understand something
  - A letter of support might be reassuring regarding recruitment or analyses
  - Data from a pilot study shows how the specific thing you are proposing might turn out
-   - Reviewers vary in how closely they want preliminary data to match the specifics of what you propose. Sometimes you have to make do with what you have available.
+   - Reviewers vary in how closely they want preliminary data to match the specifics of what you propose. 
   
 ## Content: Conclusions
 
  - Remember your goal (communication) and your audience (tired grant reviewers who aren't as expert in your niche as you think they are)
  - Be prepared for a roller coaster with 12 pages
-   - Early on: oh my so many blank pages
-   - Midway on: I can do this
-   - Near the end: 12 pages!
-   - Nearer the end: Oh no 15 pages
-   - The very end: Somehow I managed to cut it down to 12 pages
+   - Early on: oh my so many blank pages 😬
+   - Midway on: I can do this 💪
+   - Near the end: 12 pages! 🎉
+   - Nearer the end: Oh no 15 pages 😱
+   - The very end: back to 12 pages PHEW 🥰
 
 
 # Concluding remarks
@@ -181,6 +220,7 @@ Different kinds of preliminary data might serve different purposes:
 
  - Start early and iterate
  - Be inspired by other people's grants
+ - Get feedback
 
 ## Questions? {background-image="images/jp01.jpg" background-repeat="no-repeat"}
 
@@ -188,10 +228,9 @@ Different kinds of preliminary data might serve different purposes:
 
 ## Homework
 
- - Get example grant materials from someone (which could be me)
- - Draft at least facilities and equipment sections (or why not just do everything)
+ - Outline research strategy
 
 
 ## Next time {background-image="images/huskies01.jpg" background-repeat="no-repeat" background-opacity=0.5}
 
-Research strategy!
+Research strategy presentation

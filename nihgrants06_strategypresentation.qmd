@@ -1,6 +1,6 @@
 ---
 title: 'Writing an NIH Grant in 9 "easy" steps'
-subtitle: 'Step 5: Research Strategy'
+subtitle: 'Step 6: Research Strategy Presentation'
 author: 'Jonathan Peelle'
 institute: 'Northeastern University <br> <a href="http://neuromatch.social/@jpeelle">@jpeelle@neuromatch.social</a>'
 title-slide-attributes:
@@ -37,30 +37,35 @@ format:
 Remember your goal (communication) and your audience (tired grant reviewers who aren't as expert in your niche as you think they are)
 
 
+## Formatting basics
+
+ - Make sure to follow all NIH requirements
+ - 11 pt Arial, left justified is a good place to start
+ - Being dense seems like it would be good for communicating a lot of information, but it can hinder understanding. Avoid a wall of text!
+
+
+ ## Example 1
+
+::: {style="font-size:.8em"}
+_Sed consectetur lacus quis ante efficitur sollicitudin._ Pellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in *laoreet libero eleifend et*. Donec mollis sapien neque, id sagittis ipsum fringilla sit amet. _Vivamus justo augue, feugiat in enim vitae, viverra imperdiet turpis._ Integer dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a **rhoncus** dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu.
+:::
+
+
+ ## Example 2
+
+::: {style="font-size:.8em"}
+Sed consectetur lacus quis ante efficitur sollicitudin. Pellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in laoreet libero eleifend et. **Donec mollis sapien neque, id sagittis ipsum fringilla sit amet.**
+
+Vivamus justo augue, feugiat in enim vitae, viverra imperdiet turpis. Integer dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a rhoncus dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu.
+:::
+
+
 ## Organization
 
  - Be thoughtful about your organization and headings
  - Clearly differentiate levels of information
  - Use styles (i.e. the "styles pane" in Word) for consistency and to facilitate changing styles.
 
-
-## Organization
-
-What I do: Start by outlining the logical progression I want to present to the reviewers before they see the specific experiments. These points (perhaps with some rewording) become subheadings in the background.
-
-
-
-## Organization
-
-In a recent grant, we proposed a new way of looking at accented speech in noise:
-
- - Accent and how we talk about it
- - Pupil diameter as a physiological measure of cognitive effort
- - Cognitive effort during listening: Empirical observations
- - Cognitive effort during listening: Theoretical considerations
- - Framing the processes that help us understand difficult speech
- - State of the field: brain regions underlying challenging listening in individual listeners
- 
 
 
 ## Abbreviations

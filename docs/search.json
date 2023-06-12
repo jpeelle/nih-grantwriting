@@ -1334,7 +1334,7 @@
     "href": "nihgrants05_strategyorganization.html#a-suggested-organization",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "A suggested organization",
-    "text": "A suggested organization\n\nSignificance (half page)\nInnovation (half page)\nBackground\n\nTell reviewers everything they need to know about your study\nHighlight your past work as appropriate\n\nGeneral methodology (if anything common across aims)\n\nSubject selection, data acquisition, assessments…\n\nDetails of each aim (preliminary data under each aim)"
+    "text": "A suggested organization\n\nSignificance (half page)\nInnovation (half page)\nBackground\n\nTell reviewers everything they need to know to understand your grant\nHighlight your past work as appropriate\n\nGeneral methodology (if anything common across aims)\n\nSubject selection, data acquisition, assessments…\n\nDetails of each aim (preliminary data under each aim)"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#alternate-organization-1",
@@ -1376,14 +1376,14 @@
     "href": "nihgrants05_strategyorganization.html#sample-size-2",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Sample size",
-    "text": "Sample size\nDON’T:\n\nBe vague (“We run enough participants to detect an effect of 0.8, p < .05, calculated using GPower”)"
+    "text": "Sample size\nDON’T:\n\nBe vague (“We run enough participants to detect an effect of 0.8, p < .05, calculated using GPower”)\nDevote too much space to power and sample size (which comes at the expense of other things you need to explain)"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#sample-size-3",
     "href": "nihgrants05_strategyorganization.html#sample-size-3",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Sample size",
-    "text": "Sample size\n\nOne approach I have taken that has worked in grants, and also to some degree in my lab, is Bayes Factor Design Analysis (Schönbrodt and Wagenmakers, 2018)\n\nSequential sampling with optional stopping structured around the minimal sample size required for informative results"
+    "text": "Sample size\n\nOne approach I have taken that has worked in grants, and also to some degree in my lab, is Bayes Factor Design Analysis (Schönbrodt and Wagenmakers, 2018)\n\nSequential sampling with optional stopping structured around the minimal sample size required for informative results\nPROS: Gives you some wiggle room, avoids some pitfalls of other approaches\nCONS: Most reviewers will not be familiar with it, may make budgeting tricky (although no one has ever brought this up)"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#sample-size-behavioral-example",
@@ -1432,21 +1432,21 @@
     "href": "nihgrants05_strategyorganization.html#preliminary-data-1",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Preliminary data",
-    "text": "Preliminary data\nDifferent kinds of preliminary data might serve different purposes:\n\nA published figure from a manuscript in your lab can show your expertise and/or help reviewers understand something\nA letter of support might be reassuring regarding recruitment or analyses\nData from a pilot study shows how the specific thing you are proposing might turn out\n\nReviewers vary in how closely they want preliminary data to match the specifics of what you propose. Sometimes you have to make do with what you have available."
+    "text": "Preliminary data\nDifferent kinds of preliminary data serve different purposes:\n\nA published figure from a manuscript in your lab can show your expertise and/or help reviewers understand something\nA letter of support might be reassuring regarding recruitment or analyses\nData from a pilot study shows how the specific thing you are proposing might turn out\n\nReviewers vary in how closely they want preliminary data to match the specifics of what you propose."
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#content-conclusions",
     "href": "nihgrants05_strategyorganization.html#content-conclusions",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Content: Conclusions",
-    "text": "Content: Conclusions\n\nRemember your goal (communication) and your audience (tired grant reviewers who aren’t as expert in your niche as you think they are)\nBe prepared for a roller coaster with 12 pages\n\nEarly on: oh my so many blank pages\nMidway on: I can do this\nNear the end: 12 pages!\nNearer the end: Oh no 15 pages\nThe very end: Somehow I managed to cut it down to 12 pages"
+    "text": "Content: Conclusions\n\nRemember your goal (communication) and your audience (tired grant reviewers who aren’t as expert in your niche as you think they are)\nBe prepared for a roller coaster with 12 pages\n\nEarly on: oh my so many blank pages 😬\nMidway on: I can do this 💪\nNear the end: 12 pages! 🎉\nNearer the end: Oh no 15 pages 😱\nThe very end: back to 12 pages PHEW 🥰"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#summary",
     "href": "nihgrants05_strategyorganization.html#summary",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Summary",
-    "text": "Summary\n\nStart early and iterate\nBe inspired by other people’s grants"
+    "text": "Summary\n\nStart early and iterate\nBe inspired by other people’s grants\nGet feedback"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#questions",
@@ -1460,14 +1460,14 @@
     "href": "nihgrants05_strategyorganization.html#homework",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Homework",
-    "text": "Homework\n\nGet example grant materials from someone (which could be me)\nDraft at least facilities and equipment sections (or why not just do everything)"
+    "text": "Homework\n\nOutline research strategy"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#next-time",
     "href": "nihgrants05_strategyorganization.html#next-time",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Next time",
-    "text": "Next time\nResearch strategy!"
+    "text": "Next time\nResearch strategy presentation"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#homework-updates-and-questions",
@@ -1643,5 +1643,40 @@
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Next time",
     "text": "Next time\nResearch strategy!"
+  },
+  {
+    "objectID": "nihgrants05_strategyorganization.html#organization-1",
+    "href": "nihgrants05_strategyorganization.html#organization-1",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Organization",
+    "text": "Organization\nWhat I do: Start by outlining the logical progression I want to present to the reviewers before they see the specific experiments. These points (perhaps with some rewording) become subheadings in the background."
+  },
+  {
+    "objectID": "nihgrants05_strategyorganization.html#organization-2",
+    "href": "nihgrants05_strategyorganization.html#organization-2",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Organization",
+    "text": "Organization\nIn a recent grant, we proposed a new way of looking at accented speech in noise:\n\nAccent and how we talk about it\nPupil diameter as a physiological measure of cognitive effort\nCognitive effort during listening: Empirical observations\nCognitive effort during listening: Theoretical considerations\nFraming the processes that help us understand difficult speech\nState of the field: brain regions underlying challenging listening in individual listeners"
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#formatting-basics",
+    "href": "nihgrants06_strategypresentation.html#formatting-basics",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Formatting basics",
+    "text": "Formatting basics\n\nMake sure to follow all NIH requirements\n11 pt Arial, left justified is a good place to start\nBeing dense seems like it would be good for communicating a lot of information, but it can hinder understanding. Avoid a wall of text!\n\n## Example 1\n\nSed consectetur lacus quis ante efficitur sollicitudin. Pellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in laoreet libero eleifend et. Donec mollis sapien neque, id sagittis ipsum fringilla sit amet. Vivamus justo augue, feugiat in enim vitae, viverra imperdiet turpis. Integer dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a rhoncus dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu.\n\n## Example 2\n\nSed consectetur lacus quis ante efficitur sollicitudin. Pellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in laoreet libero eleifend et. Donec mollis sapien neque, id sagittis ipsum fringilla sit amet.\nVivamus justo augue, feugiat in enim vitae, viverra imperdiet turpis. Integer dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a rhoncus dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu."
+  },
+  {
+    "objectID": "nihgrants05_strategyorganization.html#paragraphs",
+    "href": "nihgrants05_strategyorganization.html#paragraphs",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Paragraphs",
+    "text": "Paragraphs\n\nDon’t leave reviewers to draw their own conclusions - tell them what they should take away.\nWhen in doubt, go back to basics: One main topic per paragraph, which is introduced with a topic sentence, and ends with a conclusing sentence."
+  },
+  {
+    "objectID": "nihgrants05_strategyorganization.html#significance",
+    "href": "nihgrants05_strategyorganization.html#significance",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Significance",
+    "text": "Significance\n\nNot a literature review!\nBut, need to walk reviewers through relevant literature to hihlight the critical gap in the field that your proposal addresses\nDo not assume your reviewers know the critical background\n\n## Approach\n\nOften helpful to include an overview to provide the general structure and logic\n\nIf you have all the background stuff in significance, beginning of the “approach” is a good place for this\nIf you have a shorter significance and then a “background” section, you can put the overview right before specific aims\n\nProvide descriptive captions for figures"
   }
 ]
