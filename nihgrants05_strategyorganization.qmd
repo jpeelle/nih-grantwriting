@@ -106,21 +106,56 @@ In a recent grant, we proposed a new way of looking at accented speech in noise:
  - However, reviewers will differ in the degree to which they want to see clear clinical or translational implciations from your work.
  - Try to be specific as much as possible and assume there is a clinician reading your grant who cares deeply abou this issue.
 
+
+## Innovation
+
+ - Historically a scored criteria (and thus nice to give it its own section)
+ - Many ways to be innovative:
+   - Using a new technique, or novel combination of techniques
+   - Studying a new idea
+   - Introducing a new theoretical theory
+
+ - In practice, I have found that reviewers have an easier time saying nice thingsi about innovation when it is technical ("We are using a machine that no one else has") as opposed to theoretical. But, it varies a lot by reviewer.
+
+
+## Rigor and reproducibility
+
+- Not a required section but [reviewers are instructed to evaluate this](https://grants.nih.gov/policy/reproducibility/guidance.htm)
+
+- Includes sex as a biological variable (SABV) that reviewers are instructed to evaluate
+
+
+## Rigor and reproducibility
+
+::: {style="font-size:.8em"}
+Experiments will be preregistered prior to data collection commencing, and all experimental details will be reported to allow full replication. We will make all stimuli and analysis scripts available online through the Open Science Framework or similar third-party hosted public repository; share behavioral data on the NIMH Data Archive (NDA); and share deidentified, defaced MRI data through OpenNeuro. Past examples of data sharing can be found for example with OpenNeuro data sets ds002382 (61 participants, fMRI) and ds003717 (60 participants, fMRI), and OSF project s5ut8 (143 participants, pupillometry).
+
+We plan to recruit equal numbers of male and female participants. Although not powered for sex differences (as none are expected) we will test for sex difference in all analyses.
+:::
+
+
 ## Approach
 
-  - Often helpful to include an overview to provide the general structure and logic
-    - If you have all the background stuff in significance, beginning of the "approach" is a good place for this
-    - If you have a shorter significance and then a "background" section in Approach, you can put the overview right before specific aims
-  - Don't be afraid of figures - use them as visual aids to educate reviewers (and remind them when they are skimming). Schematic figures and overview figures can be very helpful when done well.
+My approach organization:
 
-## What methods do you include?
+ 1. Background (long)
+ 2. General methods (medium - anything shared across aims)
+ 3. Overview of experiments (short - 1 paragraph and a table or figure)
+ 4. Each aim
 
- - You can't include everything, but:
- - Reviewers should be able to tell what you are actually doing
- - Some details are important for assessing feasibility and/or power
-   - number of participants
-   - number of trials
-   - what the stimuli and task are
+
+## Background
+
+ - See above comments on significance: your goal is to educate reviewers on the current state of the field, the major gap in the literature, and your proposal for filling this critical need.
+
+## General methods
+
+Things that are common across aims, so depends on your design. Could include things like:
+
+ - Participant recruitment, inclusion/exclusion criteria
+ - Data collection (e.g., I sometimes have general sections on pupillometry or fMRI)
+ - Any assessments that are common across aims
+
 
 ## Sample size 
 
@@ -166,6 +201,34 @@ We will use Bayes Factor Design Analysis (BFDA) to determine sample sizes for be
 ::: {style="font-size:.8em"}
 Regarding power for fMRI studies, one question is how many participants we need for a significant group effect. For this, we used a prior fMRI study of reward (Wimmer et al., 2012) available on NeuroVault, and the power calculation technique by Durnez et al. (2016), which indicates 36 participants for a power of 0.9. We will run 36 young adults for each fMRI study, planning to recruit 40 to allow for data loss. For the older adults, we are interested in individual differences. Yarkoni and Braver (2010) argue that fMRI studies of individual differences are typically underpowered, and to achieve power of 0.8 for even a large correlation effect requires a minimum of 55 subjects. We will run 72 older adults in all fMRI studies, giving us power of > 0.9 to detect effects reported by Peelle et al. (2011) in a correlation study of hearing and fMRI activity based on ROI-calculated effect sizes (Pearson r = -0.65 in auditory cortex). We anticipate 10% data loss (movement etc.), 
 :::
+
+
+## Overview of aims
+
+  - Often helpful to include an overview to provide the general structure and logic
+    - If you have all the background stuff in significance, beginning of the "approach" is a good place for this
+    - If you have a shorter significance and then a "background" section in Approach, you can put the overview right before specific aims
+
+
+## Research under each aim
+
+I start each aim with a paragraph to remind reviewers what the aim is about, and then have the following sections:
+
+- Method
+- Predictions
+- Preliminary data
+- Challenges, potential pitfalls, and alternate outcomes
+
+(The last two sections sometimes get ommitted if I don't have anything to include, but ideally each aim would have all sections.)
+
+## What methods do you include?
+
+ - You can't include everything, but:
+ - Reviewers should be able to tell what you are actually doing
+ - Some details are important for assessing feasibility and/or power
+   - number of participants
+   - number of trials
+   - what the stimuli and task are
 
 ## Alternate outcomes
 
