@@ -97,12 +97,20 @@ Alzheimer's Disease (AD) is distinct from healthy aging (HA) because of the pres
    - Common methods (fMRI, EEG, fNIRS) are probably OK
 
 
-
 ## Emphasis
 
  - Using font changes to highlight important information can help reviewers (espeically the ones who are skimming!) zero in on important information. Caveats:
    1. If you emphasize too much, it loses meaning. Be choosey about what you emphasize.
-   2. *Don't use too many types of emphasis.* It's distracting, and <u>leaves the reader</u> wondering **what the <u>*difference*</u> is** between different kinds of emphasis. (**I use bold for highlighting main points.**)
+   2. *Don't use too many types of emphasis.* It's <u>distracting</u>, and leaves the reader wondering **what the <u>*difference*</u> is** between different kinds of emphasis. (**I use bold for highlighting main points.**)
+
+## Emphasis
+
+💡 In olden times, underlining was used to tell the typesetter something should be put in italics.
+
+Typewriters did not have an italic option, so underline was the only option.
+
+From a historical perspective it makes no sense to have both <u>underlining</u> and _italics_, much less <u>_both_</u> 😱
+
 
 
 ## Emphasis
@@ -114,7 +122,7 @@ Alzheimer's Disease (AD) is distinct from healthy aging (HA) because of the pres
 
  - Author, date
    - Pros: People who know the field see the reference
-   - Cons: People who don't know get no benefit, takes up more room
+   - Cons: People who don't get no benefit, uses more space
 - Numbered
   - Pros: Saves space
   - Cons: Reviewers often don't look these up
@@ -140,22 +148,22 @@ THERE IS NOTHING MORE ANNOYING THAN AN ILLEGIBLE FIGURE
  - Labeled axes (!)
  - Look nice when you zoom in
 
-These may all seem basic but are frequently ignored. (Why? Because applicants underrate the importance of figures.)
 
+## What makes "good" figures?
 
+ - These may all seem basic but are frequently ignored. Why? Because applicants underrate the importance of figures...
+ - AND because the figure that worked for a journal article may not be optimized for your grant.
 
-
-
-## Re-drawing figures
+## Figure example
 
 ![](images/McLaughlin2018_2panel.png){fig-align="right"}
 
-## Re-drawing figures
+## Figure example
 In text, this is either way too small, or huge (and still looks bad)
 
 ![](images/McLaughlin2018_2panel_text.png){fig-align="center"}
 
-## Re-drawing figures
+## Figure example
 Still too small
 
 ![](images/McLaughlin2018_1panel_text.png){fig-align="center"}
@@ -198,8 +206,9 @@ Better
  - Make sure to have high-resolution (or ideally, vector) graphics so they look good when zoomed in
 
 
+## Grant example
 
-# Concluding remarks
+
 
 ## Summary
 
@@ -212,10 +221,11 @@ Better
 
 ## Homework
 
- - Get example grant materials from someone (which could be me)
- - Draft at least facilities and equipment sections (or why not just do everything)
+ - Finish a research strategy
 
 
 ## Next time {background-image="images/huskies01.jpg" background-repeat="no-repeat" background-opacity=0.5}
 
-Research strategy!
+- Getting feedback on a drafted grant?
+- Considerations for fellowships (e.g. training plan)?
+- Responding to comments / preparing a resubmission?

@@ -1551,7 +1551,7 @@
     "href": "nihgrants06_strategypresentation.html#references",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "References",
-    "text": "References\n\nAuthor, date\n\nPros: People who know the field see the reference\nCons: People who don’t know get no benefit, takes up more room\n\nNumbered\n\nPros: Saves space\nCons: Reviewers often don’t look these up\n\n\nNo matter which approach you take, be sensitive to how reviewers use (or don’t) the information, and don’t over-do the references, because it doesn’t help.45, 46, 52-57, 74"
+    "text": "References\n\nAuthor, date\n\nPros: People who know the field see the reference\nCons: People who don’t get no benefit, uses more space\n\nNumbered\n\nPros: Saves space\nCons: Reviewers often don’t look these up\n\n\nNo matter which approach you take, be sensitive to how reviewers use (or don’t) the information, and don’t over-do the references, because it doesn’t help.45, 46, 52-57, 74"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#figures",
@@ -1565,35 +1565,35 @@
     "href": "nihgrants06_strategypresentation.html#what-makes-good-figures",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "What makes “good” figures?",
-    "text": "What makes “good” figures?\n\nUnderstandable with a minimal legend\nHave a legend and a figure number\nLegible font (!)\nLabeled axes (!)\nLook nice when you zoom in\n\nThese may all seem basic but are frequently ignored. (Why? Because applicants underrate the importance of figures.)"
+    "text": "What makes “good” figures?\n\nUnderstandable with a minimal legend\nHave a legend and a figure number\nLegible font (!)\nLabeled axes (!)\nLook nice when you zoom in"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#re-drawing-figures",
     "href": "nihgrants06_strategypresentation.html#re-drawing-figures",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Re-drawing figures",
-    "text": "Re-drawing figures"
+    "text": "Re-drawing figures\nThe solution? Re-draw the figure.\n\nMake sure font is legible (8+ points)\nAxes labels legible and make sense\nColor scheme and labels match text of grant"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#re-drawing-figures-1",
     "href": "nihgrants06_strategypresentation.html#re-drawing-figures-1",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Re-drawing figures",
-    "text": "Re-drawing figures\nIn text, this is either way too small, or huge (and still looks bad)"
+    "text": "Re-drawing figures\nHow to re-draw figures?\n\nOriginal figure as one layer in Illustrator (or similar), locked\nTrace new layer on top\n\n(N.B. If you want good figures you need to learn at least the basics of a vector art program, like Illustrator)\n\nRaster graphics have specific information for each pixel. If you zoom in, it requires more pixels, and things look fuzzy. Common types include JPG, PNG, and GIF.\nVector graphics describe the image in terms of shapes (EPS, PDF) and scale to arbitrary sizes."
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#re-drawing-figures-2",
     "href": "nihgrants06_strategypresentation.html#re-drawing-figures-2",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Re-drawing figures",
-    "text": "Re-drawing figures\nStill too small"
+    "text": "Re-drawing figures\nBetter"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#re-drawing-figures-3",
     "href": "nihgrants06_strategypresentation.html#re-drawing-figures-3",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Re-drawing figures",
-    "text": "Re-drawing figures\nThe solution? Re-draw the figure.\n\nMake sure font is legible (8+ points)\nAxes labels legible and make sense\nColor scheme and labels match text of grant"
+    "text": "Re-drawing figures"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#re-drawing-figures-4",
@@ -1635,14 +1635,14 @@
     "href": "nihgrants06_strategypresentation.html#homework",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Homework",
-    "text": "Homework\n\nGet example grant materials from someone (which could be me)\nDraft at least facilities and equipment sections (or why not just do everything)"
+    "text": "Homework\n\nFinish a research strategy"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#next-time",
     "href": "nihgrants06_strategypresentation.html#next-time",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Next time",
-    "text": "Next time\nResearch strategy!"
+    "text": "Next time\n\nGetting feedback on a drafted grant?\nConsiderations for fellowships (e.g. training plan)?\nResponding to comments / preparing a resubmission?"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#organization-1",
@@ -1796,7 +1796,7 @@
     "href": "nihgrants06_strategypresentation.html#emphasis-1",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Emphasis",
-    "text": "Emphasis\nFont changes are not the only way to highlight ideas or create emphasis. You can also use your structure and white space to emphasize things.\n“Structural emphasis” might include headings, topic sentences, or figure captions."
+    "text": "Emphasis\n💡 In olden times, underlining was used to tell the typesetter something should be put in italics.\nTypewriters did not have an italic option, so underline was the only option.\nFrom a historical perspective it makes no sense to have both underlining and italics, much less both 😱"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#re-drawing-figures-6",
@@ -1818,5 +1818,47 @@
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Figures",
     "text": "Figures\nTHERE IS NOTHING MORE ANNOYING THAN AN ILLEGIBLE FIGURE"
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#what-makes-good-figures-1",
+    "href": "nihgrants06_strategypresentation.html#what-makes-good-figures-1",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "What makes “good” figures?",
+    "text": "What makes “good” figures?\n\nThese may all seem basic but are frequently ignored. Why? Because applicants underrate the importance of figures…\nAND because the figure that worked for a journal article may not be optimized for your grant."
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#figure-example",
+    "href": "nihgrants06_strategypresentation.html#figure-example",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Figure example",
+    "text": "Figure example"
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#figure-example-1",
+    "href": "nihgrants06_strategypresentation.html#figure-example-1",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Figure example",
+    "text": "Figure example\nIn text, this is either way too small, or huge (and still looks bad)"
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#figure-example-2",
+    "href": "nihgrants06_strategypresentation.html#figure-example-2",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Figure example",
+    "text": "Figure example\nStill too small"
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#emphasis-2",
+    "href": "nihgrants06_strategypresentation.html#emphasis-2",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Emphasis",
+    "text": "Emphasis\nFont changes are not the only way to highlight ideas or create emphasis. You can also use your structure and white space to emphasize things.\n“Structural emphasis” might include headings, topic sentences, or figure captions."
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#grant-example",
+    "href": "nihgrants06_strategypresentation.html#grant-example",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Grant example",
+    "text": "Grant example"
   }
 ]
