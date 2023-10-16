@@ -44,20 +44,24 @@ Remember your goal (communication) and your audience (tired grant reviewers who 
  - Being dense seems like it would be good for communicating a lot of information, but it can hinder understanding. Avoid a wall of text!
 
 
- ## Example 1
+## Example 1
 
 ::: {style="font-size:.8em"}
 _Sed consectetur lacus quis ante efficitur sollicitudin._ Pellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in *laoreet libero eleifend et*. Donec mollis sapien neque, id sagittis ipsum fringilla sit amet. _Vivamus justo augue, feugiat in enim vitae, viverra imperdiet turpis._ Integer dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a **rhoncus** dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu.
 :::
 
 
- ## Example 2
+## Example 2
 
 ::: {style="font-size:.8em"}
-Sed consectetur lacus quis ante efficitur sollicitudin. Pellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in laoreet libero eleifend et. **Donec mollis sapien neque, id sagittis ipsum fringilla sit amet.**
+**Heading**
 
-Vivamus justo augue, feugiat in enim vitae, viverra imperdiet turpis. Integer dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a rhoncus dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu.
-:::
+Pellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in laoreet libero eleifend et. **Donec mollis sapien neque, id sagittis ipsum fringilla sit amet.**
+
+_Subheading_
+
+Integer dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a rhoncus dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu.
+::: 
 
 
 ## Organization
@@ -65,6 +69,11 @@ Vivamus justo augue, feugiat in enim vitae, viverra imperdiet turpis. Integer di
  - Be thoughtful about your organization and headings
  - Clearly differentiate levels of information
  - Use styles (i.e. the "styles pane" in Word) for consistency and to facilitate changing styles.
+
+
+## Styles
+
+![](images/styles.png){fig-align="center"}
 
 
 
@@ -96,6 +105,11 @@ Alzheimer's Disease (AD) is distinct from healthy aging (HA) because of the pres
    2. *Don't use too many types of emphasis.* It's distracting, and <u>leaves the reader</u> wondering **what the <u>*difference*</u> is** between different kinds of emphasis. (**I use bold for highlighting main points.**)
 
 
+## Emphasis
+ Font changes are not the only way to highlight ideas or create emphasis. You can also use your structure and white space to emphasize things.
+ 
+ "Structural emphasis" might include headings, topic sentences, or figure captions.
+
 ## References
 
  - Author, date
@@ -113,14 +127,23 @@ No matter which approach you take, be sensitive to how reviewers use (or don't) 
  - My hypothesis: Even readers who "don't care" about nice figures have an easier time understanding your proposal if it has good figures
 
 
+## Figures
+
+THERE IS NOTHING MORE ANNOYING THAN AN ILLEGIBLE FIGURE
+
+
 ## What makes "good" figures?
 
  - Understandable with a minimal legend
+ - Have a legend and a figure number
  - Legible font (!)
  - Labeled axes (!)
  - Look nice when you zoom in
 
 These may all seem basic but are frequently ignored. (Why? Because applicants underrate the importance of figures.)
+
+
+
 
 
 ## Re-drawing figures
@@ -140,18 +163,23 @@ Still too small
 
 ## Re-drawing figures
 
-The solution? Re-draw the figure.
+The solution? **Re-draw the figure.**
 
  - Make sure font is legible (8+ points)
  - Axes labels legible and make sense
  - Color scheme and labels match text of grant
 
-How to do it?
+## Re-drawing figures
+
+How to re-draw figures?
 
   1. Original figure as one layer in Illustrator (or similar), locked
   2. Trace new layer on top
 
 (N.B. If you want good figures you need to learn at least the basics of a vector art program, like Illustrator)
+
+  * _Raster graphics_ have specific information for each pixel. If you zoom in, it requires more pixels, and things look fuzzy. Common types include JPG, PNG, and GIF.
+  * _Vector graphics_ describe the image in terms of shapes (EPS, PDF) and scale to arbitrary sizes.
 
 
 ## Re-drawing figures

@@ -676,7 +676,7 @@
     "href": "nihgrants04_otherstuff.html#biosketches",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Biosketches",
-    "text": "Biosketches\n\nUse the most recent form\nThe biosketch is the best way for reviewers to get to know you, and why you are the right person to lead this project.\nIntroduce yourself (“My training is in…”)\nCustomize for every grant\n\nI tend to have two paragraphs: the first stays almost identical (but I proofread!), the second changes per grant\nHighlight collaborations (especailly if no publications)\nDon’t let it be a “missed opportunity”"
+    "text": "Biosketches\n\nUse the most recent form\nThe biosketch is the best way for reviewers to get to know you, and why you are the right person to lead this project.\nIntroduce yourself (“My training is in…”)\nCustomize for every grant\n\nI tend to have two paragraphs: the first stays almost identical (but I proofread!), the second changes per grant\nHighlight collaborations (especially if no publications)\nDon’t let it be a “missed opportunity”"
   },
   {
     "objectID": "nihgrants04_otherstuff.html#project-narrative",
@@ -1565,7 +1565,7 @@
     "href": "nihgrants06_strategypresentation.html#what-makes-good-figures",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "What makes “good” figures?",
-    "text": "What makes “good” figures?\n\nUnderstandable with a minimal legend\nLegible font (!)\nLabeled axes (!)\nLook nice when you zoom in\n\nThese may all seem basic but are frequently ignored. (Why? Because applicants underrate the importance of figures.)"
+    "text": "What makes “good” figures?\n\nUnderstandable with a minimal legend\nHave a legend and a figure number\nLegible font (!)\nLabeled axes (!)\nLook nice when you zoom in\n\nThese may all seem basic but are frequently ignored. (Why? Because applicants underrate the importance of figures.)"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#re-drawing-figures",
@@ -1593,21 +1593,21 @@
     "href": "nihgrants06_strategypresentation.html#re-drawing-figures-3",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Re-drawing figures",
-    "text": "Re-drawing figures\nThe solution? Re-draw the figure.\n\nMake sure font is legible (8+ points)\nAxes labels legible and make sense\nColor scheme and labels match text of grant\n\nHow to do it?\n\nOriginal figure as one layer in Illustrator (or similar), locked\nTrace new layer on top\n\n(N.B. If you want good figures you need to learn at least the basics of a vector art program, like Illustrator)"
+    "text": "Re-drawing figures\nThe solution? Re-draw the figure.\n\nMake sure font is legible (8+ points)\nAxes labels legible and make sense\nColor scheme and labels match text of grant"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#re-drawing-figures-4",
     "href": "nihgrants06_strategypresentation.html#re-drawing-figures-4",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Re-drawing figures",
-    "text": "Re-drawing figures\nBetter"
+    "text": "Re-drawing figures\nHow to re-draw figures?\n\nOriginal figure as one layer in Illustrator (or similar), locked\nTrace new layer on top\n\n(N.B. If you want good figures you need to learn at least the basics of a vector art program, like Illustrator)\n\nRaster graphics have specific information for each pixel. If you zoom in, it requires more pixels, and things look fuzzy. Common types include JPG, PNG, and GIF.\nVector graphics describe the image in terms of shapes (EPS, PDF) and scale to arbitrary sizes."
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#re-drawing-figures-5",
     "href": "nihgrants06_strategypresentation.html#re-drawing-figures-5",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Re-drawing figures",
-    "text": "Re-drawing figures"
+    "text": "Re-drawing figures\nBetter"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html#advanced-figures",
@@ -1663,7 +1663,7 @@
     "href": "nihgrants06_strategypresentation.html#formatting-basics",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Formatting basics",
-    "text": "Formatting basics\n\nMake sure to follow all NIH requirements\n11 pt Arial, left justified is a good place to start\nBeing dense seems like it would be good for communicating a lot of information, but it can hinder understanding. Avoid a wall of text!\n\n## Example 1\n\nSed consectetur lacus quis ante efficitur sollicitudin. Pellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in laoreet libero eleifend et. Donec mollis sapien neque, id sagittis ipsum fringilla sit amet. Vivamus justo augue, feugiat in enim vitae, viverra imperdiet turpis. Integer dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a rhoncus dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu.\n\n## Example 2\n\nSed consectetur lacus quis ante efficitur sollicitudin. Pellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in laoreet libero eleifend et. Donec mollis sapien neque, id sagittis ipsum fringilla sit amet.\nVivamus justo augue, feugiat in enim vitae, viverra imperdiet turpis. Integer dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a rhoncus dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu."
+    "text": "Formatting basics\n\nMake sure to follow all NIH requirements\n11 pt Arial, left justified is a good place to start\nBeing dense seems like it would be good for communicating a lot of information, but it can hinder understanding. Avoid a wall of text!"
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#paragraphs",
@@ -1691,7 +1691,7 @@
     "href": "nihgrants05_strategyorganization.html#significance-clinical-applications",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Significance: Clinical applications",
-    "text": "Significance: Clinical applications\n\nNIH funds plenty of basic science. Not everything needs to be clinical.\nHowever, reviewers will differ in the degree to which they want to see clear clinical or translational implciations from your work.\nTry to be specific as much as possible and assume there is a clinician reading your grant who cares deeply abou this issue."
+    "text": "Significance: Clinical applications\n\nNIH funds plenty of basic science. Not everything needs to be clinical.\nHowever, reviewers will differ in the degree to which they want to see clear clinical or translational implciations from your work.\nTry to be specific as much as possible and assume there is a clinician reading your grant who cares deeply about this issue."
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#sample-size-justification-and-power-analyses",
@@ -1726,7 +1726,7 @@
     "href": "nihgrants05_strategyorganization.html#innovation",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Innovation",
-    "text": "Innovation\n\nHistorically a scored criteria (and thus nice to give it its own section)\nMany ways to be innovative:\n\nUsing a new technique, or novel combination of techniques\nStudying a new idea\nIntroducing a new theoretical theory\n\nIn practice, I have found that reviewers have an easier time saying nice thingsi about innovation when it is technical (“We are using a machine that no one else has”) as opposed to theoretical. But, it varies a lot by reviewer."
+    "text": "Innovation\n\nHistorically a scored criteria (and thus nice to give it its own section)\nMany ways to be innovative:\n\nUsing a new technique, or novel combination of techniques\nIntroducing a new theoretical perspective\n\nIn practice, I have found that reviewers have an easier time saying nice things about innovation when it is technical (“We are using a machine that no one else has”) as opposed to theoretical. But, it varies a lot by reviewer."
   },
   {
     "objectID": "nihgrants05_strategyorganization.html#rigor-and-reproducibility",
@@ -1769,5 +1769,54 @@
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Research under each aim",
     "text": "Research under each aim\nI start each aim with a paragraph to remind reviewers what the aim is about, and then have the following sections:\n\nMethod\nPredictions\nPreliminary data\nChallenges, potential pitfalls, and alternate outcomes\n\n(The last two sections sometimes get ommitted if I don’t have anything to include, but ideally each aim would have all sections.)"
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html",
+    "href": "nihgrants06_strategypresentation.html",
+    "title": "",
+    "section": "",
+    "text": "title: ‘Writing an NIH Grant in 9 “easy” steps’ subtitle: ‘Step 6: Research Strategy Presentation’ author: ‘Jonathan Peelle’ institute: ‘Northeastern University  @jpeelle@neuromatch.social’ title-slide-attributes: data-background-image: images/stairs.jpg data-background-size: cover data-background-opacity: ‘0.6’ format: revealjs: theme: default slide-number: true chalkboard: buttons: false preview-links: auto css: styles.css"
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#example-1",
+    "href": "nihgrants06_strategypresentation.html#example-1",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Example 1",
+    "text": "Example 1\n\nSed consectetur lacus quis ante efficitur sollicitudin. Pellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in laoreet libero eleifend et. Donec mollis sapien neque, id sagittis ipsum fringilla sit amet. Vivamus justo augue, feugiat in enim vitae, viverra imperdiet turpis. Integer dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a rhoncus dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu."
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#example-2",
+    "href": "nihgrants06_strategypresentation.html#example-2",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Example 2",
+    "text": "Example 2\n\nHeading\nPellentesque consectetur scelerisque augue vitae sagittis. Mauris in ex sit amet enim rutrum placerat. Donec tristique tellus metus, in laoreet libero eleifend et. Donec mollis sapien neque, id sagittis ipsum fringilla sit amet.\nSubheading\nInteger dictum purus sed fermentum volutpat. Integer imperdiet placerat mi sit amet mollis. Etiam a rhoncus dui. Pellentesque tincidunt ac arcu in posuere. Nulla sed laoreet nulla, sed molestie neque. Nunc volutpat fringilla urna, tristique malesuada magna tempor eu."
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#emphasis-1",
+    "href": "nihgrants06_strategypresentation.html#emphasis-1",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Emphasis",
+    "text": "Emphasis\nFont changes are not the only way to highlight ideas or create emphasis. You can also use your structure and white space to emphasize things.\n“Structural emphasis” might include headings, topic sentences, or figure captions."
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#re-drawing-figures-6",
+    "href": "nihgrants06_strategypresentation.html#re-drawing-figures-6",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Re-drawing figures",
+    "text": "Re-drawing figures"
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#styles",
+    "href": "nihgrants06_strategypresentation.html#styles",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Styles",
+    "text": "Styles"
+  },
+  {
+    "objectID": "nihgrants06_strategypresentation.html#figures-1",
+    "href": "nihgrants06_strategypresentation.html#figures-1",
+    "title": "Writing an NIH Grant in 9 “easy” steps",
+    "section": "Figures",
+    "text": "Figures\nTHERE IS NOTHING MORE ANNOYING THAN AN ILLEGIBLE FIGURE"
   }
 ]

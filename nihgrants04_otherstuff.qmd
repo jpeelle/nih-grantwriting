@@ -47,7 +47,7 @@ format:
   - Introduce yourself ("My training is in...")
   - Customize for every grant
     - I tend to have two paragraphs: the first stays almost identical (but I proofread!), the second changes per grant
-    - Highlight collaborations (especailly if no publications)
+    - Highlight collaborations (especially if no publications)
     - Don't let it be a "missed opportunity"
 
 ## First paragraph

@@ -104,7 +104,7 @@ In a recent grant, we proposed a new way of looking at accented speech in noise:
 
  - NIH funds plenty of basic science. Not everything needs to be clinical.
  - However, reviewers will differ in the degree to which they want to see clear clinical or translational implciations from your work.
- - Try to be specific as much as possible and assume there is a clinician reading your grant who cares deeply abou this issue.
+ - Try to be specific as much as possible and assume there is a clinician reading your grant who cares deeply about this issue.
 
 
 ## Innovation
@@ -112,10 +112,9 @@ In a recent grant, we proposed a new way of looking at accented speech in noise:
  - Historically a scored criteria (and thus nice to give it its own section)
  - Many ways to be innovative:
    - Using a new technique, or novel combination of techniques
-   - Studying a new idea
-   - Introducing a new theoretical theory
+   - Introducing a new theoretical perspective
 
- - In practice, I have found that reviewers have an easier time saying nice thingsi about innovation when it is technical ("We are using a machine that no one else has") as opposed to theoretical. But, it varies a lot by reviewer.
+ - In practice, I have found that reviewers have an easier time saying nice things about innovation when it is technical ("We are using a machine that no one else has") as opposed to theoretical. But, it varies a lot by reviewer.
 
 
 ## Rigor and reproducibility
@@ -217,7 +216,7 @@ I start each aim with a paragraph to remind reviewers what the aim is about, and
 - Method
 - Predictions
 - Preliminary data
-- Challenges, potential pitfalls, and alternate outcomes
+- Challenges, potential pitfalls, or alternate outcomes
 
 (The last two sections sometimes get ommitted if I don't have anything to include, but ideally each aim would have all sections.)
 
