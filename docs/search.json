@@ -1768,7 +1768,7 @@
     "href": "nihgrants05_strategyorganization.html#research-under-each-aim",
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Research under each aim",
-    "text": "Research under each aim\nI start each aim with a paragraph to remind reviewers what the aim is about, and then have the following sections:\n\nMethod\nPredictions\nPreliminary data\nChallenges, potential pitfalls, and alternate outcomes\n\n(The last two sections sometimes get ommitted if I don’t have anything to include, but ideally each aim would have all sections.)"
+    "text": "Research under each aim\nI start each aim with a paragraph to remind reviewers what the aim is about, and then have the following sections:\n\nMethod\nPredictions\nPreliminary data\nChallenges, potential pitfalls, or alternate outcomes\n\n(The last two sections sometimes get ommitted if I don’t have anything to include, but ideally each aim would have all sections.)"
   },
   {
     "objectID": "nihgrants06_strategypresentation.html",
@@ -1860,5 +1860,12 @@
     "title": "Writing an NIH Grant in 9 “easy” steps",
     "section": "Grant example",
     "text": "Grant example"
+  },
+  {
+    "objectID": "nihgrants03_PO-aims-budget.html",
+    "href": "nihgrants03_PO-aims-budget.html",
+    "title": "",
+    "section": "",
+    "text": "title: ‘Writing an NIH Grant in 9 “easy” steps’ subtitle: ‘Step 3: Getting started (PO, aims, budget)’ author: ‘Jonathan Peelle’ institute: ‘Northeastern University  @jpeelle@neuromatch.social’ title-slide-attributes: data-background-image: images/stairs.jpg data-background-size: cover data-background-opacity: ‘0.6’ format: revealjs: theme: default slide-number: true chalkboard: buttons: false preview-links: auto css: styles.css"
   }
 ]
